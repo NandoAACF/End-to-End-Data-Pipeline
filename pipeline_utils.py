@@ -256,6 +256,7 @@ def merge_all(temp_merged_df, df_new):
 
 def transform_cwur(df4):
     df4['University'] = df4['University'].str.split('\n').str[0].apply(lambda x: x.strip())
+    df4['Alumni Employability Rank'].loc[df4['Alumni Employability Rank'] == '-'] = np.nan
     return df4
 
 

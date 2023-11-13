@@ -166,7 +166,7 @@ Rank,University,Score,Country,City,Region,TOEFL,IELTS,Total Students,Internation
 164,Kyushu University,49.7,Japan,Fukuoka City,Asia,,,18220.0,0.13,28.0,72.0,36.0,132
 164,Universitat de Barcelona,49.7,Spain,Barcelona,Europe,,,,,,,,
 166,Emory University,49.6,United States,Atlanta,North America,100.0,7.0,13127.0,0.19,61.0,39.0,25.0,270
-167,University of York,49.4,United Kingdom,York,Europe,87.0,6.5,19505.0,0.31,56.0,44.0,30.0,-
+167,University of York,49.4,United Kingdom,York,Europe,87.0,6.5,19505.0,0.31,56.0,44.0,30.0,
 168,University of Florida,49.1,United States,Gainesville,North America,80.0,6.0,48114.0,0.09,56.0,44.0,35.0,426
 169,"University of Maryland, College Park",48.9,United States,College Park,North America,100.0,7.0,33988.0,0.09,49.0,51.0,33.0,387
 169,University of Reading,48.9,United Kingdom,Reading,Europe,88.0,6.0,15945.0,0.31,55.0,45.0,31.0,134
@@ -229,7 +229,7 @@ Rank,University,Score,Country,City,Region,TOEFL,IELTS,Total Students,Internation
 228,National Cheng Kung University,41.8,Taiwan,Tainan City,Asia,69.0,5.0,,,,,,145
 229,Friedrich-Alexander-Universität Erlangen-Nürnberg,41.7,Germany,Erlangen,Europe,,,,,,,,
 230,Al-Farabi Kazakh National University,41.6,Kazakhstan,Almaty,Asia,,,,,,,,
-230,Khalifa University,41.6,United Arab Emirates,Abu Dhabi,Asia,79.0,6.0,3289.0,0.41,58.0,42.0,14.0,-
+230,Khalifa University,41.6,United Arab Emirates,Abu Dhabi,Asia,79.0,6.0,3289.0,0.41,58.0,42.0,14.0,
 232,University of Göttingen,41.4,Germany,Göttingen,Europe,,,23349.0,0.14,53.0,47.0,29.0,369
 233,Deakin University.,41.3,Australia,Burwood,Oceania,65.0,6.0,,,,,,
 233,National Tsing Hua University,41.3,Taiwan,Hsinchu City,Asia,,,13979.0,0.12,42.0,58.0,34.0,815
@@ -261,10 +261,10 @@ Rank,University,Score,Country,City,Region,TOEFL,IELTS,Total Students,Internation
 260,University of Virginia,38.5,United States,Charlottesville,North America,90.0,7.0,,,,,,37
 261,Vanderbilt University,38.4,United States,Nashville,North America,100.0,7.0,12971.0,0.17,55.0,45.0,32.0,89
 262,University of Warsaw,38.1,Poland,Warsaw,Europe,,,,,,,,837
-263,Gadjah Mada University,38.0,Indonesia,Yogyakarta,Asia,,,,,,,,-
+263,Gadjah Mada University,38.0,Indonesia,Yogyakarta,Asia,,,,,,,,
 264,University of Colorado Boulder,37.9,United States,Boulder,North America,75.0,6.0,35844.0,0.08,45.0,55.0,30.0,169
 264,University of Witwatersrand,37.9,South Africa,Johannesburg,Africa,,,,,,,,
-266,Ulsan National Institute of Science and Technology,37.7,South Korea,Ulsan,Asia,,,,,,,,-
+266,Ulsan National Institute of Science and Technology,37.7,South Korea,Ulsan,Asia,,,,,,,,
 266,University of Lisbon,37.7,Portugal,Lisbon,Europe,,,49847.0,0.16,53.0,47.0,36.0,1305
 268,Linköping University,37.5,Sweden,Linköping,Europe,90.0,6.5,15233.0,0.15,54.0,46.0,32.0,644
 268,"University of California, Irvine",37.5,United States,Irvine,North America,80.0,6.0,35675.0,0.26,53.0,47.0,30.0,1229
@@ -280,11 +280,11 @@ Rank,University,Score,Country,City,Region,TOEFL,IELTS,Total Students,Internation
 278,University of Miami,36.9,United States,Miami,North America,80.0,6.0,17060.0,0.14,54.0,46.0,34.0,228
 280,University of Navarra,36.8,Spain,Pamplona,Europe,95.0,6.5,11969.0,0.26,54.0,46.0,27.0,125
 281,Bandung Institute of Technology,36.6,Indonesia,Bandung,Asia,,,,,,,,550
-281,University of Bergen,36.6,Norway,Bergen,Europe,,,15751.0,0.11,61.0,39.0,25.0,-
+281,University of Bergen,36.6,Norway,Bergen,Europe,,,15751.0,0.11,61.0,39.0,25.0,
 283,Stellenbosch University,36.5,South Africa,Stellenbosch,Africa,,,25140.0,0.07,56.0,44.0,34.0,210
 284,Taylor's University,36.2,Malaysia,Subang Jaya,Asia,34.0,5.0,,,,,,
 285,Indian Institute of Technology Madras,36.1,India,Chennai,Asia,,,,,,,,174
-285,Swinburne University of Technology,36.1,Australia,Melbourne,Oceania,76.0,6.0,14324.0,0.24,42.0,58.0,30.0,-
+285,Swinburne University of Technology,36.1,Australia,Melbourne,Oceania,76.0,6.0,14324.0,0.24,42.0,58.0,30.0,
 285,The University of Arizona,36.1,United States,Tucson,North America,70.0,6.0,,,,,,
 285,Tianjin University,36.1,China (Mainland),Tianjin,Asia,,,26486.0,0.13,,,24.0,146
 289,University of Galway,36.0,Ireland,Galway,Europe,,,15734.0,0.16,59.0,41.0,32.0,1603
@@ -294,27 +294,27 @@ Rank,University,Score,Country,City,Region,TOEFL,IELTS,Total Students,Internation
 292,University College Cork,35.7,Ireland,Cork,Europe,,,18567.0,0.16,59.0,41.0,34.0,649
 294,Université Grenoble Alpes,35.6,France,Grenoble,Europe,,,51244.0,0.17,53.0,47.0,35.0,
 295,Hong Kong Baptist University,35.4,Hong Kong SAR,Hong Kong,Asia,,,7460.0,0.55,65.0,35.0,22.0,1566
-295,University of East Anglia,35.4,United Kingdom,Norwich,Europe,79.0,6.0,16475.0,0.21,57.0,43.0,31.0,-
+295,University of East Anglia,35.4,United Kingdom,Norwich,Europe,79.0,6.0,16475.0,0.21,57.0,43.0,31.0,
 297,Georgetown University,35.3,United States,Washington D.C.,North America,100.0,7.0,17508.0,0.18,55.0,45.0,29.0,43
 298,Dalhousie University,34.9,Canada,Halifax,North America,90.0,6.5,17314.0,0.27,54.0,46.0,33.0,359
 299,Rutgers University–New Brunswick,34.8,United States,New Brunswick,North America,79.0,6.0,,,,,,
 300,UCSI University,34.7,Malaysia,Kuala Lumpur,Asia,,,,,,,,
-301,Southern University of Science and Technology,34.6,China (Mainland),Shenzhen,Asia,,,,,,,,-
+301,Southern University of Science and Technology,34.6,China (Mainland),Shenzhen,Asia,,,,,,,,
 302,Goethe-University Frankfurt am Main,34.5,Germany,Frankfurt,Europe,,,,,,,,
 302,Virginia Polytechnic Institute and State University,34.5,United States,Blacksburg,North America,80.0,6.0,37225.0,0.13,44.0,56.0,35.0,
-304,Jagiellonian University,34.3,Poland,Krakow,Europe,,,,,,,,-
+304,Jagiellonian University,34.3,Poland,Krakow,Europe,,,,,,,,
 304,University of Notre Dame,34.3,United States,Notre Dame,North America,100.0,7.0,12576.0,0.12,47.0,53.0,29.0,39
 306,University of Johannesburg,34.0,South Africa,Johannesburg,Africa,,,31721.0,0.13,55.0,45.0,33.0,1086
-307,Daegu Gyeongbuk Institute of Science and Technology,34.0,South Korea,Daegu,Asia,,,,,,,,-
+307,Daegu Gyeongbuk Institute of Science and Technology,34.0,South Korea,Daegu,Asia,,,,,,,,
 307,Swansea University,33.9,United Kingdom,Swansea,Europe,79.0,6.0,18505.0,0.21,47.0,53.0,31.0,1339
 307,Universiti Teknologi PETRONAS,33.9,Malaysia,Seri Iskandar,Asia,61.0,5.0,,,,,,
-307,University of Tasmania,33.9,Australia,Hobart,Oceania,72.0,6.0,16894.0,0.31,60.0,40.0,33.0,-
+307,University of Tasmania,33.9,Australia,Hobart,Oceania,72.0,6.0,16894.0,0.31,60.0,40.0,33.0,
 310,Hamad bin Khalifa University,33.8,Qatar,Doha,Asia,,,,,,,,
 310,Universitat Pompeu Fabra,33.8,Spain,Barcelona,Europe,,,,,,,,
 312,Universität Stuttgart,33.7,Germany,Stuttgart,Europe,,,,,,,,
 313,Indiana University Bloomington,33.5,United States,Bloomington,North America,79.0,6.0,,,,,,94
 313,University of Oulu,33.5,Finland,Oulu,Europe,,,10719.0,0.08,55.0,45.0,28.0,634
-315,Quaid-i-Azam University,33.4,Pakistan,Islamabad,Asia,,,11386.0,0.01,45.0,55.0,20.0,-
+315,Quaid-i-Azam University,33.4,Pakistan,Islamabad,Asia,,,11386.0,0.01,45.0,55.0,20.0,
 315,Saint Petersburg State University,33.4,Russia,Saint Petersburg,Europe,,,,,,,,
 315,University of Turku,33.4,Finland,Turku,Europe,,,13528.0,0.06,63.0,37.0,27.0,1629
 318,Simon Fraser University,33.3,Canada,Burnaby,North America,88.0,6.0,27269.0,0.31,54.0,46.0,29.0,1165
@@ -328,12 +328,12 @@ Rank,University,Score,Country,City,Region,TOEFL,IELTS,Total Students,Internation
 326,University of South Australia,32.7,Australia,Adelaide,Oceania,,6.0,22822.0,0.17,60.0,40.0,28.0,477
 326,University of Southern Denmark,32.7,Denmark,Odense,Europe,,,18279.0,0.13,52.0,48.0,33.0,1650
 328,"City, University of London",32.6,United Kingdom,London,Europe,,5.5,16080.0,0.45,58.0,42.0,21.0,588
-328,Gwangju Institute of Science and Technology,32.6,South Korea,Gwangju,Asia,,,,,,,,-
+328,Gwangju Institute of Science and Technology,32.6,South Korea,Gwangju,Asia,,,,,,,,
 328,USI - Università della Svizzera italiana,32.6,Switzerland,Lugano,Europe,,,,,,,,
 328,Université Paris 1 Panthéon-Sorbonne,32.6,France,Paris,Europe,,,,,,,,
 332,Kyung Hee University,32.5,South Korea,Seoul,Asia,,,20427.0,0.3,56.0,44.0,35.0,922
 332,"University of California, Santa Cruz",32.5,United States,Santa Cruz,North America,80.0,6.0,19154.0,0.12,47.0,53.0,26.0,1299
-334,Sharif University of Technology,32.4,Iran,Tehran,Asia,,,9389.0,0.02,26.0,74.0,16.0,-
+334,Sharif University of Technology,32.4,Iran,Tehran,Asia,,,9389.0,0.02,26.0,74.0,16.0,
 335,University of Naples - Federico II,32.3,Italy,Naples,Europe,,,,,,,,
 336,Aalborg University,32.2,Denmark,Aalborg,Europe,85.0,6.5,17275.0,0.12,,,34.0,921
 336,Middle East Technical University,32.2,Turkey,Ankara,Asia,,,16182.0,0.12,49.0,51.0,28.0,319
@@ -343,7 +343,7 @@ Rank,University,Score,Country,City,Region,TOEFL,IELTS,Total Students,Internation
 340,George Washington University,32.1,United States,Washington D.C.,North America,90.0,6.0,22211.0,0.14,62.0,38.0,33.0,147
 342,RUDN University,32.0,Russia,Moscow,Europe,79.0,5.5,,,,,,
 343,Brunel University London,31.9,United Kingdom,London,Europe,79.0,6.0,14130.0,0.4,47.0,53.0,30.0,646
-344,University of Aveiro,31.6,Portugal,Aveiro,Europe,,,,,,,,-
+344,University of Aveiro,31.6,Portugal,Aveiro,Europe,,,,,,,,
 345,Airlangga University,31.5,Indonesia,Surabaya,Asia,,,,,,,,
 345,University of Saskatchewan,31.5,Canada,Saskatoon,North America,86.0,6.0,17924.0,0.21,56.0,44.0,34.0,575
 347,National Technical University of Athens,31.4,Greece,Athens,Europe,,,,,,,,787
@@ -356,38 +356,38 @@ Rank,University,Score,Country,City,Region,TOEFL,IELTS,Total Students,Internation
 354,Universitat Politècnica de Catalunya · BarcelonaTech,31.0,Spain,Barcelona,Europe,71.0,5.0,,,,,,
 355,L.N. Gumilyov Eurasian National University,30.9,Kazakhstan,Nur-Sultan,Asia,,,,,,,,
 355,Sichuan University,30.9,China (Mainland),Chengdu,Asia,,,49117.0,0.05,,,31.0,1014
-355,University of Tsukuba,30.9,Japan,Tsukuba City,Asia,,,15506.0,0.16,38.0,62.0,35.0,-
+355,University of Tsukuba,30.9,Japan,Tsukuba City,Asia,,,15506.0,0.16,38.0,62.0,35.0,
 358,University of Florence,30.8,Italy,Florence,Europe,,,40535.0,0.1,56.0,44.0,34.0,765
-358,University of Tartu,30.8,Estonia,Tartu,Europe,,,9694.0,0.12,68.0,32.0,31.0,-
+358,University of Tartu,30.8,Estonia,Tartu,Europe,,,9694.0,0.12,68.0,32.0,31.0,
 360,Shandong University,30.7,China (Mainland),Jinan,Asia,,,,,,,,1171
-360,University of Tehran,30.7,Iran,Tehran,Asia,,,54890.0,0.02,5.0,95.0,34.0,-
-362,Lincoln University,30.6,New Zealand,Lincoln,Oceania,60.0,6.0,2562.0,0.33,52.0,48.0,12.0,-
+360,University of Tehran,30.7,Iran,Tehran,Asia,,,54890.0,0.02,5.0,95.0,34.0,
+362,Lincoln University,30.6,New Zealand,Lincoln,Oceania,60.0,6.0,2562.0,0.33,52.0,48.0,12.0,
 362,Universität Innsbruck,30.6,Austria,Innsbruck,Europe,,,,,,,,
 364,American University of Sharjah,30.3,United Arab Emirates,Sharjah,Asia,,,,,,,,
-364,Indian Institute of Technology Guwahati,30.3,India,Guwahati,Asia,,,,,,,,-
+364,Indian Institute of Technology Guwahati,30.3,India,Guwahati,Asia,,,,,,,,
 364,University of Turin,30.3,Italy,Turin,Europe,,,63232.0,0.06,61.0,39.0,30.0,1115
 367,National University of Sciences And Technology  Islamabad,30.2,Pakistan,Islamabad,Asia,,,,,,,,
-368,University of Cyprus,30.1,Cyprus,Nicosia,Europe,,,,,,,,-
+368,University of Cyprus,30.1,Cyprus,Nicosia,Europe,,,,,,,,
 369,Indian Institute of Technology Roorkee,30.0,India,Roorkee,Asia,,,,,,,,303
-369,Yeshiva University,30.0,United States,New York City,North America,82.0,,,,,,,-
+369,Yeshiva University,30.0,United States,New York City,North America,82.0,,,,,,,
 371,Cairo University,29.9,Egypt,Giza,Africa,,,,,,,,1078
 371,Tilburg University,29.9,Netherlands,Tilburg,Europe,80.0,6.0,13225.0,0.21,51.0,49.0,14.0,398
 371,Universidade Federal do Rio de Janeiro,29.9,Brazil,Rio de Janeiro,Latin America,,,,,,,,
-374,"Birkbeck, University of London",29.7,United Kingdom,London,Europe,92.0,6.0,,,,,,-
-375,Amirkabir University of Technology,29.5,Iran,Tehran,Asia,,,9859.0,0.03,35.0,65.0,13.0,-
+374,"Birkbeck, University of London",29.7,United Kingdom,London,Europe,92.0,6.0,,,,,,
+375,Amirkabir University of Technology,29.5,Iran,Tehran,Asia,,,9859.0,0.03,35.0,65.0,13.0,
 375,Northeastern University,29.5,United States,Boston,North America,100.0,7.0,,,,,,197
 375,Ruhr-Universität Bochum,29.5,Germany,Bochum,Europe,,,,,,,,
 375,Western Sydney University,29.5,Australia,Milperra,Oceania,82.0,6.0,35590.0,0.21,59.0,41.0,36.0,1438
 379,Tufts University,29.4,United States,Medford,North America,100.0,7.0,11611.0,0.16,57.0,43.0,34.0,69
-380,Flinders University,29.2,Australia,Adelaide,Oceania,72.0,6.0,17422.0,0.33,66.0,34.0,25.0,-
-381,University of Luxembourg,29.1,Luxembourg,Luxembourg,Europe,,,5599.0,0.49,53.0,47.0,27.0,-
+380,Flinders University,29.2,Australia,Adelaide,Oceania,72.0,6.0,17422.0,0.33,66.0,34.0,25.0,
+381,University of Luxembourg,29.1,Luxembourg,Luxembourg,Europe,,,5599.0,0.49,53.0,47.0,27.0,
 382,Mahidol University,29.0,Thailand,Nakhon Pathom,Asia,,,,,,,,1653
 382,Université de Montpellier,29.0,France,Montpellier,Europe,,,,,,,,
 384,Nankai University,28.6,China (Mainland),Tianjin,Asia,,,31416.0,0.07,,,28.0,117
 384,University of Münster,28.6,Germany,Munster,Europe,,,27529.0,0.05,,,28.0,819
 386,University of Hawaiʻi at Mānoa,28.4,United States,Honolulu,North America,100.0,7.0,,,,,,
 387,Aix-Marseille University,28.3,France,Marseille,Europe,,6.0,72946.0,0.14,60.0,40.0,34.0,929
-387,Belarusian State University,28.3,Belarus,Minsk,Europe,,,,,,,,-
+387,Belarusian State University,28.3,Belarus,Minsk,Europe,,,,,,,,
 387,Concordia University,28.3,Canada,Montreal,North America,63.0,5.5,,,,,,352
 387,National Taiwan University of Science and Technology,28.3,Taiwan,Taipei City,Asia,47.0,4.0,,,,,,660
 387,Universiti Brunei Darussalam,28.3,Brunei,Bandar Seri Begawan,Asia,,,3503.0,0.14,66.0,34.0,27.0,
@@ -400,27 +400,27 @@ Rank,University,Score,Country,City,Region,TOEFL,IELTS,Total Students,Internation
 396,"Stony Brook University, State University of New York",28.1,United States,Stony Brook,North America,80.0,6.0,,,,,,
 399,HSE University,28.0,Russia,Moscow,Europe,60.0,5.0,34656.0,0.12,,,29.0,
 400,Iowa State University,27.9,United States,Ames,North America,71.0,6.0,28591.0,0.08,46.0,54.0,34.0,142
-400,Masaryk University,27.9,Czechia,Brno,Europe,,,,,,,,-
+400,Masaryk University,27.9,Czechia,Brno,Europe,,,,,,,,
 400,Universidade Nova de Lisboa,27.9,Portugal,Lisbon,Europe,,,,,,,,
-403,University of Granada,27.8,Spain,Granada,Europe,,,,,,,,-
+403,University of Granada,27.8,Spain,Granada,Europe,,,,,,,,
 404,Istanbul Technical University,27.6,Turkey,Maslak-Istanbul,Asia,,,,,,,,908
-404,"University of California, Riverside",27.6,United States,Riverside,North America,80.0,6.0,25670.0,0.14,53.0,47.0,29.0,-
+404,"University of California, Riverside",27.6,United States,Riverside,North America,80.0,6.0,25670.0,0.14,53.0,47.0,29.0,
 404,University of the Philippines,27.6,Philippines,Quezon City,Asia,,,,,,,,
-407,Auckland University of Technology,27.4,New Zealand,Auckland,Oceania,80.0,6.0,18592.0,0.46,60.0,40.0,32.0,-
+407,Auckland University of Technology,27.4,New Zealand,Auckland,Oceania,80.0,6.0,18592.0,0.46,60.0,40.0,32.0,
 407,University of Delhi,27.4,India,New Delhi,Asia,,,,,,,,217
 409,Colorado State University,27.3,United States,Fort Collins,North America,80.0,6.0,,,,,,1412
 410,Universidad de Santiago de Chile,27.2,Chile,Santiago,Latin America,,,,,,,,
 410,University of Kansas,27.2,United States,Lawrence,North America,79.0,6.0,23410.0,0.07,53.0,47.0,34.0,528
 410,University of Southern Queensland,27.2,Australia,Toowoomba,Oceania,80.0,6.0,11650.0,0.15,63.0,37.0,31.0,1145
-413,Oxford Brookes University,27.1,United Kingdom,Oxford,Europe,72.0,6.0,,,,,,-
+413,Oxford Brookes University,27.1,United Kingdom,Oxford,Europe,72.0,6.0,,,,,,
 413,Royal Holloway University of London,27.1,United Kingdom,Egham,Europe,80.0,6.0,,,,,,
 415,James Cook University,27.0,Australia,Townsville,Oceania,74.0,6.0,9759.0,0.09,66.0,34.0,34.0,1222
 415,Moscow Institute of Physics and Technology,27.0,Russia,Dolgoprudny,Europe,72.0,6.0,,,,,,620
 415,The American University in Cairo,27.0,Egypt,Cairo,Africa,48.0,5.0,,,,,,
-418,Tomsk State University,26.9,Russia,Tomsk,Europe,,5.0,,,,,,-
+418,Tomsk State University,26.9,Russia,Tomsk,Europe,,5.0,,,,,,
 419,UNESP,26.8,Brazil,Sao Paulo,Latin America,,,,,,,,
 419,Washington State University,26.8,United States,Pullman,North America,79.0,6.0,28896.0,0.06,55.0,45.0,35.0,1036
-421,Graz University of Technology,26.7,Austria,Graz,Europe,,,,,,,,-
+421,Graz University of Technology,26.7,Austria,Graz,Europe,,,,,,,,
 421,Novosibirsk State University,26.7,Russia,Novosibirsk ,Europe,,,,,,,,1512
 421,University of Canberra,26.7,Australia,Bruce,Oceania,76.0,6.0,11299.0,0.23,56.0,44.0,29.0,1605
 421,Université de Liège,26.7,Belgium,Liège,Europe,,,,,,,,
@@ -428,15 +428,15 @@ Rank,University,Score,Country,City,Region,TOEFL,IELTS,Total Students,Internation
 426,University of Limerick,26.6,Ireland,Limerick,Europe,,,14640.0,0.15,50.0,50.0,32.0,598
 427,Anna University,26.5,India,Chennai,Asia,,,,,,,,1555
 428,IE University,26.4,Spain,Segovia,Europe,,,,,,,,
-429,Singapore University of Technology and Design,26.3,Singapore,Singapore,Asia,,,,,,,,-
-429,University of Trento,26.3,Italy,Trento,Europe,,,14100.0,0.07,51.0,49.0,27.0,-
-431,Koç University,26.2,Turkey,Istanbul,Asia,80.0,,6427.0,0.09,49.0,51.0,26.0,-
+429,Singapore University of Technology and Design,26.3,Singapore,Singapore,Asia,,,,,,,,
+429,University of Trento,26.3,Italy,Trento,Europe,,,14100.0,0.07,51.0,49.0,27.0,
+431,Koç University,26.2,Turkey,Istanbul,Asia,80.0,,6427.0,0.09,49.0,51.0,26.0,
 431,Murdoch University,26.2,Australia,Murdoch,Oceania,79.0,6.0,14816.0,0.38,62.0,38.0,30.0,934
 431,National Taipei University of Technology,26.2,Taiwan,Taipei City,Asia,,,,,,,,697
 431,National Taiwan Normal University,26.2,Taiwan,Taipei City,Asia,,,,,,,,1284
 431,University of Stirling,26.2,United Kingdom,Stirling,Europe,80.0,6.0,10650.0,0.28,64.0,36.0,22.0,624
 436,Dublin City University,26.0,Ireland,Dublin,Europe,,,14325.0,0.12,58.0,42.0,26.0,769
-436,Sejong University,26.0,South Korea,Seoul,Asia,,,11678.0,0.15,51.0,49.0,31.0,-
+436,Sejong University,26.0,South Korea,Seoul,Asia,,,11678.0,0.15,51.0,49.0,31.0,
 436,Tampere University,26.0,Finland,Tampere,Europe,,,16236.0,0.07,55.0,45.0,29.0,597
 436,University of Science and Technology Beijing,26.0,China (Mainland),Beijing,Asia,,,,,,,,200
 436,University of St.Gallen,26.0,Switzerland,St. Gallen,Europe,100.0,5.5,,,,,,28
@@ -451,31 +451,31 @@ Rank,University,Score,Country,City,Region,TOEFL,IELTS,Total Students,Internation
 446,"The University of Tennessee, Knoxville",25.7,United States,Knoxville,North America,,,,,,,,
 446,Toyota Technological Institute,25.7,Japan,Nagoya,Asia,,,,,,,,
 446,University of Jyväskylä,25.7,Finland,Jyväskylä,Europe,,,10702.0,0.03,62.0,38.0,21.0,1590
-451,Iran University of Science and Technology,25.6,Iran,Tehran,Asia,,,14679.0,0.01,35.0,65.0,17.0,-
+451,Iran University of Science and Technology,25.6,Iran,Tehran,Asia,,,14679.0,0.01,35.0,65.0,17.0,
 452,Central South University,25.5,China (Mainland),Changsha Shi,Asia,,,,,,,,265
 452,Université Claude Bernard Lyon 1,25.5,France,Villeurbanne,Europe,,,,,,,,
-454,Czech Technical University in Prague,25.2,Czechia,Prague,Europe,,,,,,,,-
-454,Indian Institute of Technology Indore,25.2,India,Indore,Asia,,,,,,,,-
+454,Czech Technical University in Prague,25.2,Czechia,Prague,Europe,,,,,,,,
+454,Indian Institute of Technology Indore,25.2,India,Indore,Asia,,,,,,,,
 454,Southeast University,25.2,China (Mainland),Nanjing,Asia,,,39637.0,0.04,36.0,64.0,30.0,802
-454,Sultan Qaboos University,25.2,Oman,Muscat,Asia,,,,,,,,-
+454,Sultan Qaboos University,25.2,Oman,Muscat,Asia,,,,,,,,
 454,Universität Mannheim,25.2,Germany,Mannheim,Europe,,,,,,,,
 459,"Essex, University of",25.1,United Kingdom,Colchester,Europe,,5.5,,,,,,
 460,Universität Potsdam,25.0,Germany,Potsdam,Europe,,,,,,,,
 461,Florida State University,24.9,United States,Tallahassee,North America,80.0,6.5,39831.0,0.06,58.0,42.0,34.0,515
-461,National Research Nuclear University MEPhI,24.9,Russia,Moscow,Europe,,6.0,4993.0,0.28,39.0,61.0,25.0,-
+461,National Research Nuclear University MEPhI,24.9,Russia,Moscow,Europe,,6.0,4993.0,0.28,39.0,61.0,25.0,
 461,Universität Jena,24.9,Germany,Jena,Europe,,,,,,,,
 464,Johannes Gutenberg Universität Mainz,24.8,Germany,Mainz,Europe,,,,,,,,
 465,Colorado School of Mines,24.7,United States,Golden,North America,,,,,,,,75
 465,Umea University,24.7,Sweden,Umeå,Europe,,,,,,,,
 465,University of Bordeaux,24.7,France,Talence,Europe,,,52643.0,0.14,60.0,40.0,26.0,1071
-465,University of Sharjah,24.7,United Arab Emirates,Sharjah,Asia,,,12848.0,0.51,67.0,33.0,31.0,-
+465,University of Sharjah,24.7,United Arab Emirates,Sharjah,Asia,,,12848.0,0.51,67.0,33.0,31.0,
 469,Ben-Gurion University of The Negev,24.6,Israel,Be'er Sheva,Asia,,,,,,,,
 469,Illinois Institute of Technology,24.6,United States,Chicago,North America,90.0,6.0,6107.0,0.36,37.0,63.0,28.0,183
 469,Università degli Studi di Pavia,24.6,Italy,Pavia,Europe,,,,,,,,
 472,Hiroshima University,24.5,Japan,Higashihiroshima City,Asia,,,,,,,,903
 473,Beihang University,24.4,China (Mainland),Beijing,Asia,,,32854.0,0.04,,,19.0,914
 473,Ural Federal University - UrFU,24.4,Russia,Ekaterinburg,Europe,72.0,6.0,,,,,,
-473,Vilnius University,24.4,Lithuania,Vilnius,Europe,,,,,,,,-
+473,Vilnius University,24.4,Lithuania,Vilnius,Europe,,,,,,,,
 476,Kobe University,24.3,Japan,Kobe City,Asia,,,,,,,,415
 476,Universitat Politecnica de Valencia,24.3,Spain,València,Europe,,,,,,,,
 478,Universität Konstanz,24.2,Germany,Konstanz,Europe,,,,,,,,
@@ -485,7 +485,7 @@ Rank,University,Score,Country,City,Region,TOEFL,IELTS,Total Students,Internation
 481,Hitotsubashi University,23.9,Japan,Kunitachi City,Asia,,,,,,,,20
 481,Leibniz University Hannover,23.9,Germany,Hanover,Europe,,,19807.0,0.15,44.0,56.0,27.0,679
 481,Satbayev University,23.9,Kazakhstan,Almaty,Asia,,,,,,,,
-481,University of Milano-Bicocca,24.0,Italy,Milan,Europe,,,,,,,,-
+481,University of Milano-Bicocca,24.0,Italy,Milan,Europe,,,,,,,,
 485,Universitat de Valencia,23.8,Spain,València,Europe,,,,,,,,
 486,University of Electronic Science and Technology of China,23.7,China (Mainland),Chengdu,Asia,,,37498.0,0.03,30.0,70.0,21.0,633
 486,University of Guelph,23.7,Canada,Guelph,North America,89.0,6.0,22936.0,0.1,59.0,41.0,32.0,1057
@@ -498,4 +498,4 @@ Rank,University,Score,Country,City,Region,TOEFL,IELTS,Total Students,Internation
 494,Hunan University,23.4,China (Mainland),Changsha,Asia,,,41481.0,0.02,47.0,53.0,27.0,569
 494,Rensselaer Polytechnic Institute,23.4,United States,Troy,North America,88.0,7.0,7496.0,0.2,31.0,69.0,25.0,153
 494,Universidad de Sevilla,23.4,Spain,Seville,Europe,,,,,,,,
-498,Ewha Womans University,23.2,South Korea,Seoul,Asia,,,,,,,,-
+498,Ewha Womans University,23.2,South Korea,Seoul,Asia,,,,,,,,
