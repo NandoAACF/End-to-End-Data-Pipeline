@@ -248,9 +248,15 @@ def transform_the(df3):
 
 
 
-def merge_all(temp_merged_df, df3):
-    merged_all_df = pd.merge(temp_merged_df, df3, on='University', how='left')
+def merge_all(temp_merged_df, df_new):
+    merged_all_df = pd.merge(temp_merged_df, df_new, on='University', how='left')
     return merged_all_df
+
+
+
+def transform_cwur(df4):
+    df4['University'] = df4['University'].str.split('\n').str[0].apply(lambda x: x.strip())
+    return df4
 
 
 
