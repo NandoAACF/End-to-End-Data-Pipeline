@@ -6,6 +6,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+from sqlalchemy import create_engine
+
 def get_json(url, headers=None):
     if headers is None:
         headers = {}
@@ -257,32 +259,15 @@ def merge_all(temp_merged_df, df_new):
 def transform_cwur(df4):
     df4['University'] = df4['University'].str.split('\n').str[0].apply(lambda x: x.strip())
     df4['Alumni Employability Rank'].loc[df4['Alumni Employability Rank'] == '-'] = np.nan
+    df4['Alumni Employability Rank'] = df4['Alumni Employability Rank'].astype('Int64')
     return df4
 
 
 
-def transform(df):
-    df['IELTS'] = df['IELTS'].str.rstrip('+')
-    df['TOEFL'] = df['TOEFL'].str.rstrip('+')
-    df['Rank'] = df['Rank'].str.lstrip('=')
+def sql_engine():
+    return create_engine('postgresql://postgres:Planify123Junpro@20.24.68.238/rekdatuniv')
 
-    df['IELTS'].replace('', np.nan, inplace=True)
-    df['IELTS'].replace('0', np.nan, inplace=True)
-    df['TOEFL'].replace('0', np.nan, inplace=True)
 
-    df['Rank'] = df['Rank'].astype('int64')
-    df['Score'] = df['Score'].astype('float64')
-    df['IELTS'] = df['IELTS'].astype('float64')
-    df['TOEFL'] = df['TOEFL'].astype('float64')
 
-    df['Total Students'] = pd.to_numeric(df['Total Students'].str.replace(',', ''), errors='coerce')
-    df['International Students'] = pd.to_numeric(df['International Students'].str.replace('%', ''), errors='coerce') / 100
-    df[['Male Ratio', 'Female Ratio']] = df['Gender Ratio'].str.split(':', expand=True).astype(float)
-    df['Subjects Count'] = df['Subjects'].fillna('').str.split(',').apply(lambda x: len(x) if x != [''] else 0)
-
-    df.drop(['Gender Ratio'], axis=1, inplace=True)
-    df.drop(['Subjects'], axis=1, inplace=True)
-
-    df['TOEFL'].loc[df['TOEFL'] > 200] = np.nan
-
-    return df
+def load_to_sql(df, tableName, db_engine):
+    return df.to_sql(name = tableName, con = db_engine, if_exists='replace', index=False)
