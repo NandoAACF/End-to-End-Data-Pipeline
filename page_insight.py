@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+from sqlalchemy import text
 
 from pipeline_utils import sql_engine
 
@@ -9,7 +10,8 @@ from pipeline_utils import sql_engine
 def get_data():
     # Mengambil data dari database SQL
     db_engine = sql_engine()
-    df = pd.read_sql_query('SELECT * FROM all_data', con = db_engine)
+    query = text('SELECT * FROM all_data')
+    df = pd.read_sql_query(query, con = db_engine)
 
     return df
 
