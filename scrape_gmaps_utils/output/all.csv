@@ -1,0 +1,475 @@
+title,rating,reviews
+Institut Teknologi Massachusetts,4.7,3790
+Cambridge University,4.6,2876
+Universitas Oxford,4.6,6160
+Universitas Harvard,4.5,5731
+Universitas Stanford,4.6,3775
+Imperial College London,4.5,1073
+ETH Zuerich,4.7,859
+Universitas Nasional Singapura,4.5,2010
+University College London,4.5,1528
+"Universitas California, Berkeley",3.5,1619
+Universitas Chicago,4.6,927
+Universitas Pennsylvania,4.5,1530
+Universitas Cornell,4.6,1175
+Universitas Melbourne,4.5,1321
+Institut Teknologi California,4.7,675
+Universitas Yale,4.5,1911
+Universitas Peking,4.5,442
+Universitas Princeton,4.7,1704
+Universitas New South Wales,4.3,1126
+Universitas Sydney,4.4,1513
+Universitas Toronto,4.4,1884
+Universitas Edinburgh,4.3,674
+Universitas Columbia,4.6,2479
+PSL Research University,4.5,22
+Universitas Tsinghua,4.6,449
+Universitas Teknologi Nanyang,4.5,1194
+Tung Wah College Mongkok Campus Cheung Chin Lan Hong Building,4.2,5
+Johns Hopkins Bloomberg School of Public Health,4.5,39
+Universitas Tokyo,4.4,2286
+Universitas California,4.6,2402
+Universitas McGill,4.5,1206
+Universitas Manchester,4.5,1316
+Universitas Michigan,4.4,584
+Universitas Nasional Australia,4.4,512
+Universitas British Columbia,4.5,1978
+École Polytechnique Fédérale de Lausanne,4.7,693
+Universitas Teknik München,4.5,841
+Institute Polytechnic De Paris,4,7
+Universitas New York,4.4,1679
+King's College London,4.1,724
+Seoul National University,4.6,1703
+Universitas Monash,4.3,1010
+Universitas Queensland,4.5,1143
+Universitas Zhejiang,4.6,209
+London School of Economics and Political Science,4.4,743
+Universitas Kyoto,4.4,1097
+Universitas Teknologi Delft,4.6,786
+Northwestern Roberta Buffett Institute for Global Affairs,,
+Chinese University of Hong Kong,4.3,452
+Universitas Fudan,4.5,165
+Universitas Jiao Tong Shanghai,4.4,140
+Universitas Carnegie Mellon,4.8,567
+Universitas Amsterdam,4.2,424
+Ludwig Maximilian University of Munich,4.2,526
+Universitas Bristol,4.4,672
+"Korea Advanced Institute of Science & Technology (KAIST), Daejeon",4.7,487
+Universitas Duke,4.5,530
+University of Texas di Austin,4.4,803
+Sorbonne University Abu Dhabi,4.3,135
+Universitas Sains dan Teknologi Hong Kong,4.3,326
+KU Leuven,3.7,290
+Universitas California,4.6,1433
+University of Washington,4.7,1710
+Universitas Illinois Urbana-Champaign,4.6,1185
+Universitas Politeknik Hong Kong,4,327
+Universitas Malaya,4.4,958
+Universitas Warwick,4.5,1089
+Universitas Auckland,4.1,642
+Universitas Nasional Taiwan,4.6,5436
+City University of Hong Kong (CityU),3.9,181
+University of Paris-Saclay,4.3,123
+Universitas Australia Barat,4.4,708
+Universitas Brown,4.5,719
+Royal Institute of Technology,4.6,499
+Universitas Leeds,4.5,877
+Universitas Glasgow,4.7,1304
+Universitas Yonsei,4.7,1000
+Universitas Durham,4.5,491
+Universitas Korea,4.6,1133
+Universitas Osaka,4.3,631
+Universitas Negeri Moskwa M.V. Lomonosov,4.7,3196
+Universitas Ruprecht Karl Heidelberg,4.5,687
+Universitas Adelaide,4.4,642
+Universitas Teknologi Sydney,4.3,737
+Tokyo Institute of Technology,4.4,558
+Universitas Zürich,4.6,605
+Universitas Boston,4.3,332
+National Autonomous University of Mexico,4.8,4604
+Universitas Buenos Aires,4.3,565
+Universitas St. Andrews,4.5,380
+Institut Teknologi Georgia,4.6,1184
+Universitas Bebas Berlin,3.9,689
+Universitas Purdue,4.6,1373
+Universitas Sains dan Teknologi Pohang,4.7,265
+Universitas Wisconsin-Madison,4.6,1031
+Pontificia Universidad Catolica De Chile,4.5,2
+Universitas Sheffield,4.4,337
+Universitas Uppsala,4.5,596
+Universitas Aachen,4.4,1178
+Universitas Kopenhagen,4.5,300
+Universitas Utrecht,4.4,782
+Aalto University,4.6,532
+Universitas Newcastle,4.3,496
+University Of Alberta,4.6,5
+Universitas Waterloo,4.3,1005
+Universitas Tohoku,4.4,244
+Western University,4.3,898
+Universitas Helsinki,4.5,236
+Universitas Southern California,4.6,1632
+Universitas Oslo,4.5,329
+Universitas Stockholm,4.3,340
+Universitas California,4.4,900
+Institut Teknologi Karlsruhe,4.5,607
+Universitas Humboldt Berlin,4.4,1047
+Universitas Teknik Denmark,4.7,484
+Universitas Lancaster,4.4,624
+Politeknik Milano,4.4,1544
+Universitas Teknologi Eindhoven,4.4,685
+Universitas Basel,4.4,528
+Universitas Leiden,4.3,294
+University of Bern,4.6,545
+Universitas Jenewa,4.4,321
+Universitas Teknologi Chalmers,4.7,434
+Universitas Macquarie,4.4,860
+Universitas Wina,4.5,845
+Universitas Carolina Utara,4.6,1060
+Sapienza Universitas Roma,4.3,2271
+Universitas Texas A&M,4.4,834
+Universitas Negeri Michigan,4.4,1298
+Universitas Sains Malaysia,4.6,772
+University of Science and Technology of China,3,4
+Universitas Groningen,4.4,389
+Universitas RMIT,3.9,706
+Universitas Nanjing,4.8,148
+University of Montreal,4.3,699
+Universitas Aarhus,4.5,273
+King Abdulaziz University - Gate 2,,
+Queen Mary,4.2,661
+Rice University,4.7,744
+Universitas Sungkyunkwan,4.6,453
+Universitas Bath,4.5,460
+Institut Teknologi India Bombay,4.7,4010
+Universitat Autònoma de Barcelona,4.2,1116
+Universitas Negeri Ohio,4.5,1928
+Universitas Wageningen,4.7,548
+Universitas Exeter,4.4,418
+Universitas Bologna,4.5,736
+Cardiff University,4.4,521
+Universitas Teknologi Berlin,4.1,875
+Universitas Washington di St. Louis,4.5,484
+Universitas Putra Malaysia,4.5,1518
+Universitas Ghent,4.5,604
+Universitas Chili,4.3,665
+Universiti Kebangsaan Malaysia,4.5,630
+Universitas Wollongong,4.4,553
+Universitas California,4.6,653
+Universitas Hanyang,4.6,939
+Kyushu University Ito Campus,4.2,352
+Universitat de Barcelona,4.4,1133
+Emory University,4.3,273
+Universitas York,4.5,499
+Universitas Florida,4.4,679
+Universitas Maryland,4.5,1132
+Universitas Reading,4.4,522
+Universitas Complutense Madrid,4.2,2748
+Universitas Kolese Dublin,4.6,868
+Qatar University,4.5,1578
+Universitas Newcastle,4.2,370
+Universitas Cape Town,4.6,1305
+Universitas Erasmus Rotterdam,4.3,367
+Universitas Nagoya,4.4,433
+Universitas Liverpool,4.3,551
+Arizona State University,4.4,1575
+King Fahd University of Petroleum and Minerals,4.5,1653
+UCLouvain,4.3,295
+University of Calgary,4.2,775
+Universitas Curtin,4,735
+Vienna University of Technology,4.4,534
+Tecnológico de Monterrey,4.7,1557
+École normale supérieure de Lyon,4,132
+University of Gothenburg,4.2,397
+Universitas Teknologi Malaysia,4.5,452
+McMaster University,4.4,1022
+Universitas Teknologi Queensland,4.5,721
+Université Libre de Bruxelles,4.2,759
+Universitas Freiburg,4.5,725
+École des ponts ParisTech,4.7,142
+Wuhan University,4.6,206
+Universitas Minnesota,4.4,299
+Universitas Hokkaido,4.5,1376
+Indian Institute of Technology Delhi,,
+University of the Andes,4.7,1643
+Autonomous University of Madrid,4.3,827
+Universitas Ratu Belfast,4.5,695
+King Saud University,,
+University of Ottawa,4.1,852
+Universitas Hamburg,4.1,519
+Universitas Otago,4.7,391
+Universitas Vrije Amsterdam,4.2,608
+Universitas Aberdeen,4.6,385
+Queen's University,4.3,575
+Universitas Twente,4.4,412
+Universitas Chulalongkorn,4.7,1140
+Universitas Loughborough,4.6,633
+Universitas Tübingen,4.4,734
+Universitas Keio,4.1,675
+Universitas Tel Aviv,4.4,1263
+Universitas Tongji,4.8,29
+National Yang Ming Chiao Tung University,4.6,1667
+Universitas Sussex,4.3,461
+Universitas Padova,4.5,1519
+UNICAMP Universidade Estadual de Campinas,4.7,3127
+Universitas Lausanne,4.3,238
+Universitas Radboud Nijmegen,4.6,983
+Universitas Pittsburgh,4.5,672
+Universitas Rochester,4.5,404
+Indian Institute of Science,4.8,2383
+Universitas Amerika di Beirut,4.4,644
+Universidad Nacional de Colombia,4.8,4441
+Universitas Nasional Cheng Kung,4.6,3380
+University of Erlangen-Nuremberg,4.1,260
+Al-Farabi Kazakh National University,4.5,1700
+Khalifa University,4.5,466
+Universitas Georg August Göttingen,4.5,468
+Deakin College Jakarta,4.9,59
+National Tsing Hua University,4.6,2513
+Heriot-Watt University Edinburgh Campus,4.5,463
+Cité Internationale Universitaire de Paris,4.4,2956
+Perguruan Tinggi Dartmouth,4.5,369
+Universitas Indonesia,4.7,6369
+Massey University,4.4,186
+Universitas Bonn,4.4,719
+Universitas Victoria Wellington,4.3,335
+La Trobe University City Campus,4,53
+Griffith University,3.6,33
+University Of Surrey,4.5,557
+Universitas Massachusetts Amherst,4.4,257
+Technische Universität Darmstadt,4.4,362
+Dresden University of Technology,4.5,522
+Universitas Charles di Praha,4.5,236
+University of Antwerp,4.5,212
+THe University Of Waikato - Jakarta Representative,1,2
+Universitas Ibrani Yerusalem,4.3,1094
+Politecnico di Torino,4.5,1256
+University of Porto,4.6,425
+University of Macao,4,80
+Case Western Reserve University,4.5,362
+Harbin Institute of Technology,4.7,109
+Universitas Maastricht,4.5,414
+Universitas Canterbury,4.4,208
+Vrije Universiteit Brussel,4.5,392
+University of Virginia,4,1
+Universitas Vanderbilt,4.4,739
+Universitas Warsawa,4.4,1054
+Universitas Gadjah Mada,4.7,8530
+Universitas Colorado Boulder,4.5,743
+University of the Witwatersrand,4.6,1597
+UNIST | Ulsan National Institute of Science & Technology,4.7,269
+University of Lisbon,4.5,1748
+Linköping University,4.6,296
+University of California,4.4,1021
+University of Cologne,4,385
+Institut Teknologi Kharagpur,4.6,4302
+Beijing Normal University,4.5,110
+Universitas Leicester,4.2,218
+North Carolina State University,4.6,1053
+Universitas Sains dan Teknologi Huazhong,4.4,47
+Universitas Milan,4.4,1061
+University of Strathclyde,4.3,352
+Indian Institute of Technology Kanpur,4.7,1950
+University of Miami,4.6,339
+University of Navarra,4.7,350
+Institut Teknologi Bandung,4.7,5047
+Universitas Bergen,4.6,240
+Universitas Stellenbosch,4.6,1282
+Taylor’s University,3.9,649
+Indian Institute Of Technology–Madras (IIT–Madras),4.7,1990
+Universitas Teknologi Swinburne,3.9,608
+Universitas Arizona,4.5,1354
+Tianjin University Peiyang School,4.2,13
+Universitas Nasional Irlandia,4.5,330
+Universitas Uni Emirat Arab,4.5,644
+Xi'an Jiaotong University,4.5,106
+Norwegian University of Science and Technology,4.7,404
+University College Cork,4.6,809
+Université Grenoble Alpes,4.4,524
+Hong Kong Baptist University,4,66
+Universitas East Anglia,4.5,500
+Universitas Georgetown,4.5,1078
+Dalhousie University,4.2,419
+Rutgers–New Brunswick,4.4,762
+UCSI University,4.5,3827
+Universitas Goethe Frankfurt,4.2,721
+Institut Politeknik dan Universitas Negeri Virginia,4.6,842
+Universitas Jagiellonian,4.4,698
+Universitas Notre Dame,4.6,1336
+University of Johannesburg - Soweto Campus,4.5,513
+Daegu Gyeongbuk Institute of Science & Technology (DGIST),4.5,121
+Swansea University,4.5,318
+Universitas Teknologi Petronas,4.5,587
+Universitas Tasmania,3.9,252
+Universitas Hamad Bin Khalifa,4.5,68
+Pompeu Fabra University,3.8,144
+Universitas Stuttgart,4.1,259
+Universitas Indiana Bloomington,4.3,352
+University of Oulu,4.5,259
+Quaid e Azam University Islamabad,4.6,3700
+Universitas Negeri Sankt-Peterburg,4.4,431
+Universitas Turku,4.1,99
+Universitas Simon Fraser,4.2,917
+Bauman Moscow State Technical University,4.2,841
+Institut Ilmu Politik Paris,4,303
+University Carlos III of Madrid | Puerta de Toledo,4.3,113
+University of Victoria,4.3,558
+Sun Yat-sen University,4.6,124
+Universitas Illinois di Chicago,4.4,706
+University of Pretoria,4.6,1440
+"University of South Australia, City West Campus",4.7,242
+University of Southern Denmark,4.6,280
+"City, University of London",4.3,429
+GIST | Gwangju Institute of Science and Technology,4.6,176
+USI Università della Svizzera italiana,4.7,136
+Universitas Paris 1 Panthéon-Sorbonne,4.2,341
+Universitas Kyunghee,4.6,881
+University of California Santa Cruz,4.4,292
+Sharif University of Technology,4.6,344
+Universitas Naples Federico II,4.3,1133
+Aalborg University,4.5,208
+Universitas Teknik Timur Tengah,4.7,305
+Pontifical Catholic University of Peru,4.6,2051
+University of Kent,4.3,451
+Beijing Institute of Technology,4.6,37
+Universitas George Washington,4.4,691
+Universitas Patrice Lumumba,4.4,1480
+Universitas Brunel London,4.4,695
+University of Aveiro,4.6,692
+Universitas Airlangga,4.4,33
+Universitas Saskatchewan,4.3,649
+National Metsovio Polythechnic,,
+Pontifical Javierian University,4.7,2671
+Universidad Politécnica de Madrid,4,430
+Universitas Pisa,4.1,137
+LUT University,4.6,195
+Universitas Coimbra,4.6,2252
+Universitas York,4.5,499
+Universitat Politècnica de Catalunya · Barcelona Tech - UPC,4.1,123
+L.N. Gumilyov Eurasian National University,4.3,876
+Sichuan University,4.2,59
+Universitas Tsukuba,4.3,580
+Universitas Florence,4.3,321
+Universitas Tartu,4.7,888
+Shandong University,4,59
+University of Tehran,4.5,426
+Lincoln University College,4.4,269
+Universitas Innsbruck,4.6,518
+American University of Sharjah,4.4,650
+Indian Institute of Technology Guwahati,4.7,38
+Universitas Torino,4.3,983
+National University of Sciences & Technology (NUST),4.6,2778
+University of Cyprus (Old Campus),4.2,102
+Indian Institute Of Technology Roorkee,4.7,4091
+Universitas Yeshiva,4.3,58
+Cairo University,5,2
+Tilburg University,4.3,321
+Universidade Federal do Rio de Janeiro,4.6,632
+"Birkbeck, University of London",4.1,316
+Amirkabir University of Technology (Tehran Polytechnique),4.4,259
+Northeastern University,4.7,1041
+Ruhr-Universität Bochum,4.3,1000
+Western Sydney University,3.7,11
+Tufts University,4.3,374
+Universitas Flinders,4.3,582
+Universitas Luksemburg,4.2,269
+Mahidol University,4.7,1105
+Université Montpellier,4.4,40
+Universitas Nankai,4.5,62
+University of Münster,4.5,895
+University of Hawaii at Manoa,4.3,347
+Université d'Aix-Marseille,3.9,110
+Belarusian State University,4.1,333
+Concordia University,4.1,765
+National Taiwan University of Science and Technology,4.6,1633
+Universitas Brunei Darussalam,4.3,128
+INSA Lyon,4.6,287
+South China University of Technology,4.3,86
+Technion,4.6,824
+Universitas Xiamen,4.6,237
+Universitas Justus Liebig Giessen,4.3,176
+Universitas Negeri Kazan,4.4,905
+Universitas Stony Brook,4.4,1054
+HSE University,4.5,381
+Iowa State University,4.6,304
+Universidade NOVA de Lisboa,4.4,145
+Universitas Granada,3.8,143
+Universitas Teknik Istanbul,4.6,1850
+Universitas California,4.4,734
+"Universitas Filipina, Diliman",4.6,1545
+Universitas Teknologi Auckland,4.5,481
+Universitas Delhi,4.2,3037
+Colorado State University,4.3,352
+Universitas Santiago de Chile,4.6,693
+Universitas Kansas,4.1,285
+University of Southern Queensland (UniSQ),4.1,237
+Oxford Brookes University,4.4,349
+Royal Holloway,4.6,610
+Universitas James Cook Singapura,3.9,160
+Moscow Institute of Physics and Technology,4.6,662
+Universitas Amerika di Kairo,4.5,2149
+Tomsk State University,4.5,440
+Instituto de Artes - Câmpus de São Paulo - IA/Unesp,4.8,122
+Washington State University,5,2
+TU Graz,4.7,139
+Novosibirsk State University,4.6,569
+University of Canberra,4,347
+University of Liège,4.3,510
+Strasbourg University,4.4,458
+University of Limerick,4.7,477
+Anna University,4.4,2304
+IE University,4.4,87
+Universitas Teknologi dan Desain Singapura,4.7,320
+Universitas Trento,4.5,51
+Universitas Koç,4.5,702
+Universitas Murdoch,4.2,404
+Universitas Nasional Teknologi Taipei,4.4,1256
+National Taiwan Normal University,4.4,1415
+Universitas Stirling,4.4,384
+Dublin City University,4.4,499
+Sejong University,4.4,532
+"Tampere University, City Centre Campus",4.5,178
+University of Science and Technology Beijing,4.5,8
+Indian Institute of Technology Indore,4.5,469
+Southeast University,4.5,1162
+Universitas Sultan Qabus,4.5,1462
+University of Mannheim,4.5,375
+Universitas Essex,4.3,557
+Universitas Potsdam,4.6,263
+Universitas Negeri Florida,4.5,500
+Moscow Engineering Physics Institute (MEPI),4.5,360
+"Friedrich-Schiller-Universität,",3.6,15
+Universitas Mainz,4.3,1014
+Colorado School of Mines,4.5,96
+Umeå universitet,4.6,230
+University of Bordeaux,3.9,19
+University of Sharjah,4.2,530
+Universitas Ben-Gurion Negev,4.3,956
+Illinois Institute of Technology,4.4,392
+The University of Pavia,4.6,535
+Hiroshima University,4.3,292
+Beihang University,5,5
+Ural Federal University,4.1,270
+Universitas Vilnius,4.6,660
+"Kobe University, Rokkoudai 1st Campus",4.2,80
+Valencia Polytechnic University,4.5,1328
+University of Konstanz,4.4,222
+Universitas Leipzig,4.6,657
+Missouri University of Science and Technology,4.4,196
+Bangor University,4.6,414
+Hitotsubashi University,4.3,279
+Universitas Hannover,4.2,696
+Satbayev University,4.2,676
+University of Milan,4.2,585
+University of Valencia,3.9,707
+电子科技大学,5,9
+Universitas Guelph,4.5,615
+Institut Pertanian Bogor,4.7,3409
+"University of Rome ""Tor Vergata""",4.3,557
+Dalian University of Technology,4.7,50
+University at Buffalo (North Campus),4.3,262
+Universitas Iowa,4.3,184
+Universitas Chung-Ang,4.6,660
+Hunan University,4.8,52
+Rensselaer Polytechnic Institute,4.3,274
+University of Seville,4.3,1776
+Ewha Womans University,4.6,1193

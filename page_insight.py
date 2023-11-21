@@ -412,13 +412,13 @@ def show_insight():
 
     # Question
     st.markdown("### **Negara apa yang memiliki rata-rata peringkat employability alumni tertinggi?**")
-    mean_International_Students_by_region = df.groupby('Region')['Alumni Employability Rank'].mean().sort_values(ascending=True).reset_index()
-    mean_International_Students_by_region = mean_International_Students_by_region[mean_International_Students_by_region['Region'] != 'Latin America']
+    mean_employability_by_rank = df.groupby('Region')['Alumni Employability Rank'].mean().sort_values(ascending=True).reset_index()
+    mean_employability_by_rank = mean_employability_by_rank[mean_employability_by_rank['Region'] != 'Latin America']
 
     plt.figure(figsize=(10, 6))
-    barplot = sns.barplot(x='Alumni Employability Rank', y='Region', data=mean_International_Students_by_region, palette='viridis')
+    barplot = sns.barplot(x='Alumni Employability Rank', y='Region', data=mean_employability_by_rank, palette='viridis')
 
-    for index, value in enumerate(mean_International_Students_by_region['Alumni Employability Rank']):
+    for index, value in enumerate(mean_employability_by_rank['Alumni Employability Rank']):
         plt.text(value, index, f'{value:.0f}', va='center')
 
     plt.title('Mean University Alumni Employability Rank by Region')

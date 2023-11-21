@@ -1,0 +1,2227 @@
+[
+    {
+        "title": "Institut Teknologi Massachusetts",
+        "rating": 4.7,
+        "reviews": 3790
+    },
+    {
+        "title": "Cambridge University",
+        "rating": 4.6,
+        "reviews": 2876
+    },
+    {
+        "title": "Universitas Oxford",
+        "rating": 4.6,
+        "reviews": 6160
+    },
+    {
+        "title": "Universitas Harvard",
+        "rating": 4.5,
+        "reviews": 5731
+    },
+    {
+        "title": "Universitas Stanford",
+        "rating": 4.6,
+        "reviews": 3775
+    },
+    {
+        "title": "Imperial College London",
+        "rating": 4.5,
+        "reviews": 1073
+    },
+    {
+        "title": "ETH Zuerich",
+        "rating": 4.7,
+        "reviews": 859
+    },
+    {
+        "title": "Universitas Nasional Singapura",
+        "rating": 4.5,
+        "reviews": 2010
+    },
+    {
+        "title": "University College London",
+        "rating": 4.5,
+        "reviews": 1528
+    },
+    {
+        "title": "Universitas California, Berkeley",
+        "rating": 3.5,
+        "reviews": 1619
+    },
+    {
+        "title": "Universitas Chicago",
+        "rating": 4.6,
+        "reviews": 927
+    },
+    {
+        "title": "Universitas Pennsylvania",
+        "rating": 4.5,
+        "reviews": 1530
+    },
+    {
+        "title": "Universitas Cornell",
+        "rating": 4.6,
+        "reviews": 1175
+    },
+    {
+        "title": "Universitas Melbourne",
+        "rating": 4.5,
+        "reviews": 1321
+    },
+    {
+        "title": "Institut Teknologi California",
+        "rating": 4.7,
+        "reviews": 675
+    },
+    {
+        "title": "Universitas Yale",
+        "rating": 4.5,
+        "reviews": 1911
+    },
+    {
+        "title": "Universitas Peking",
+        "rating": 4.5,
+        "reviews": 442
+    },
+    {
+        "title": "Universitas Princeton",
+        "rating": 4.7,
+        "reviews": 1704
+    },
+    {
+        "title": "Universitas New South Wales",
+        "rating": 4.3,
+        "reviews": 1126
+    },
+    {
+        "title": "Universitas Sydney",
+        "rating": 4.4,
+        "reviews": 1513
+    },
+    {
+        "title": "Universitas Toronto",
+        "rating": 4.4,
+        "reviews": 1884
+    },
+    {
+        "title": "Universitas Edinburgh",
+        "rating": 4.3,
+        "reviews": 674
+    },
+    {
+        "title": "Universitas Columbia",
+        "rating": 4.6,
+        "reviews": 2479
+    },
+    {
+        "title": "PSL Research University",
+        "rating": 4.5,
+        "reviews": 22
+    },
+    {
+        "title": "Universitas Tsinghua",
+        "rating": 4.6,
+        "reviews": 449
+    },
+    {
+        "title": "Universitas Teknologi Nanyang",
+        "rating": 4.5,
+        "reviews": 1194
+    },
+    {
+        "title": "Tung Wah College Mongkok Campus Cheung Chin Lan Hong Building",
+        "rating": 4.2,
+        "reviews": 5
+    },
+    {
+        "title": "Johns Hopkins Bloomberg School of Public Health",
+        "rating": 4.5,
+        "reviews": 39
+    },
+    {
+        "title": "Universitas Tokyo",
+        "rating": 4.4,
+        "reviews": 2286
+    },
+    {
+        "title": "Universitas California",
+        "rating": 4.6,
+        "reviews": 2402
+    },
+    {
+        "title": "Universitas McGill",
+        "rating": 4.5,
+        "reviews": 1206
+    },
+    {
+        "title": "Universitas Manchester",
+        "rating": 4.5,
+        "reviews": 1316
+    },
+    {
+        "title": "Universitas Michigan",
+        "rating": 4.4,
+        "reviews": 584
+    },
+    {
+        "title": "Universitas Nasional Australia",
+        "rating": 4.4,
+        "reviews": 512
+    },
+    {
+        "title": "Universitas British Columbia",
+        "rating": 4.5,
+        "reviews": 1978
+    },
+    {
+        "title": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+        "rating": 4.7,
+        "reviews": 693
+    },
+    {
+        "title": "Universitas Teknik M\u00fcnchen",
+        "rating": 4.5,
+        "reviews": 841
+    },
+    {
+        "title": "Institute Polytechnic De Paris",
+        "rating": 4,
+        "reviews": 7
+    },
+    {
+        "title": "Universitas New York",
+        "rating": 4.4,
+        "reviews": 1679
+    },
+    {
+        "title": "King's College London",
+        "rating": 4.1,
+        "reviews": 724
+    },
+    {
+        "title": "Seoul National University",
+        "rating": 4.6,
+        "reviews": 1703
+    },
+    {
+        "title": "Universitas Monash",
+        "rating": 4.3,
+        "reviews": 1010
+    },
+    {
+        "title": "Universitas Queensland",
+        "rating": 4.5,
+        "reviews": 1143
+    },
+    {
+        "title": "Universitas Zhejiang",
+        "rating": 4.6,
+        "reviews": 209
+    },
+    {
+        "title": "London School of Economics and Political Science",
+        "rating": 4.4,
+        "reviews": 743
+    },
+    {
+        "title": "Universitas Kyoto",
+        "rating": 4.4,
+        "reviews": 1097
+    },
+    {
+        "title": "Universitas Teknologi Delft",
+        "rating": 4.6,
+        "reviews": 786
+    },
+    {
+        "title": "Northwestern Roberta Buffett Institute for Global Affairs",
+        "rating": null,
+        "reviews": null
+    },
+    {
+        "title": "Chinese University of Hong Kong",
+        "rating": 4.3,
+        "reviews": 452
+    },
+    {
+        "title": "Universitas Fudan",
+        "rating": 4.5,
+        "reviews": 165
+    },
+    {
+        "title": "Universitas Jiao Tong Shanghai",
+        "rating": 4.4,
+        "reviews": 140
+    },
+    {
+        "title": "Universitas Carnegie Mellon",
+        "rating": 4.8,
+        "reviews": 567
+    },
+    {
+        "title": "Universitas Amsterdam",
+        "rating": 4.2,
+        "reviews": 424
+    },
+    {
+        "title": "Ludwig Maximilian University of Munich",
+        "rating": 4.2,
+        "reviews": 526
+    },
+    {
+        "title": "Universitas Bristol",
+        "rating": 4.4,
+        "reviews": 672
+    },
+    {
+        "title": "Korea Advanced Institute of Science & Technology (KAIST), Daejeon",
+        "rating": 4.7,
+        "reviews": 487
+    },
+    {
+        "title": "Universitas Duke",
+        "rating": 4.5,
+        "reviews": 530
+    },
+    {
+        "title": "University of Texas di Austin",
+        "rating": 4.4,
+        "reviews": 803
+    },
+    {
+        "title": "Sorbonne University Abu Dhabi",
+        "rating": 4.3,
+        "reviews": 135
+    },
+    {
+        "title": "Universitas Sains dan Teknologi Hong Kong",
+        "rating": 4.3,
+        "reviews": 326
+    },
+    {
+        "title": "KU Leuven",
+        "rating": 3.7,
+        "reviews": 290
+    },
+    {
+        "title": "Universitas California",
+        "rating": 4.6,
+        "reviews": 1433
+    },
+    {
+        "title": "University of Washington",
+        "rating": 4.7,
+        "reviews": 1710
+    },
+    {
+        "title": "Universitas Illinois Urbana-Champaign",
+        "rating": 4.6,
+        "reviews": 1185
+    },
+    {
+        "title": "Universitas Politeknik Hong Kong",
+        "rating": 4,
+        "reviews": 327
+    },
+    {
+        "title": "Universitas Malaya",
+        "rating": 4.4,
+        "reviews": 958
+    },
+    {
+        "title": "Universitas Warwick",
+        "rating": 4.5,
+        "reviews": 1089
+    },
+    {
+        "title": "Universitas Auckland",
+        "rating": 4.1,
+        "reviews": 642
+    },
+    {
+        "title": "Universitas Nasional Taiwan",
+        "rating": 4.6,
+        "reviews": 5436
+    },
+    {
+        "title": "City University of Hong Kong (CityU)",
+        "rating": 3.9,
+        "reviews": 181
+    },
+    {
+        "title": "University of Paris-Saclay",
+        "rating": 4.3,
+        "reviews": 123
+    },
+    {
+        "title": "Universitas Australia Barat",
+        "rating": 4.4,
+        "reviews": 708
+    },
+    {
+        "title": "Universitas Brown",
+        "rating": 4.5,
+        "reviews": 719
+    },
+    {
+        "title": "Royal Institute of Technology",
+        "rating": 4.6,
+        "reviews": 499
+    },
+    {
+        "title": "Universitas Leeds",
+        "rating": 4.5,
+        "reviews": 877
+    },
+    {
+        "title": "Universitas Glasgow",
+        "rating": 4.7,
+        "reviews": 1304
+    },
+    {
+        "title": "Universitas Yonsei",
+        "rating": 4.7,
+        "reviews": 1000
+    },
+    {
+        "title": "Universitas Durham",
+        "rating": 4.5,
+        "reviews": 491
+    },
+    {
+        "title": "Universitas Korea",
+        "rating": 4.6,
+        "reviews": 1133
+    },
+    {
+        "title": "Universitas Osaka",
+        "rating": 4.3,
+        "reviews": 631
+    },
+    {
+        "title": "Trinity College Dublin",
+        "rating": 4.5,
+        "reviews": 3713
+    },
+    {
+        "title": "University of Southampton Malaysia (Southampton Malaysia)",
+        "rating": 4.6,
+        "reviews": 73
+    },
+    {
+        "title": "Universitas Negeri Pennsylvania",
+        "rating": 4.6,
+        "reviews": 635
+    },
+    {
+        "title": "Universitas Birmingham",
+        "rating": 4.5,
+        "reviews": 1156
+    },
+    {
+        "title": "Universitas Lund",
+        "rating": 4.6,
+        "reviews": 950
+    },
+    {
+        "title": "Universitas S\u00e3o Paulo",
+        "rating": 4.6,
+        "reviews": 2378
+    },
+    {
+        "title": "Universitas Negeri Moskwa M.V. Lomonosov",
+        "rating": 4.7,
+        "reviews": 3196
+    },
+    {
+        "title": "Universitas Ruprecht Karl Heidelberg",
+        "rating": 4.5,
+        "reviews": 687
+    },
+    {
+        "title": "Universitas Adelaide",
+        "rating": 4.4,
+        "reviews": 642
+    },
+    {
+        "title": "Universitas Teknologi Sydney",
+        "rating": 4.3,
+        "reviews": 737
+    },
+    {
+        "title": "Tokyo Institute of Technology",
+        "rating": 4.4,
+        "reviews": 558
+    },
+    {
+        "title": "Universitas Z\u00fcrich",
+        "rating": 4.6,
+        "reviews": 605
+    },
+    {
+        "title": "Universitas Boston",
+        "rating": 4.3,
+        "reviews": 332
+    },
+    {
+        "title": "National Autonomous University of Mexico",
+        "rating": 4.8,
+        "reviews": 4604
+    },
+    {
+        "title": "Universitas Buenos Aires",
+        "rating": 4.3,
+        "reviews": 565
+    },
+    {
+        "title": "Universitas St. Andrews",
+        "rating": 4.5,
+        "reviews": 380
+    },
+    {
+        "title": "Institut Teknologi Georgia",
+        "rating": 4.6,
+        "reviews": 1184
+    },
+    {
+        "title": "Universitas Bebas Berlin",
+        "rating": 3.9,
+        "reviews": 689
+    },
+    {
+        "title": "Universitas Purdue",
+        "rating": 4.6,
+        "reviews": 1373
+    },
+    {
+        "title": "Universitas Sains dan Teknologi Pohang",
+        "rating": 4.7,
+        "reviews": 265
+    },
+    {
+        "title": "Universitas Wisconsin-Madison",
+        "rating": 4.6,
+        "reviews": 1031
+    },
+    {
+        "title": "Pontificia Universidad Catolica De Chile",
+        "rating": 4.5,
+        "reviews": 2
+    },
+    {
+        "title": "Universitas Sheffield",
+        "rating": 4.4,
+        "reviews": 337
+    },
+    {
+        "title": "Universitas Uppsala",
+        "rating": 4.5,
+        "reviews": 596
+    },
+    {
+        "title": "Universitas Aachen",
+        "rating": 4.4,
+        "reviews": 1178
+    },
+    {
+        "title": "Universitas Kopenhagen",
+        "rating": 4.5,
+        "reviews": 300
+    },
+    {
+        "title": "Universitas Utrecht",
+        "rating": 4.4,
+        "reviews": 782
+    },
+    {
+        "title": "Aalto University",
+        "rating": 4.6,
+        "reviews": 532
+    },
+    {
+        "title": "Universitas Newcastle",
+        "rating": 4.3,
+        "reviews": 496
+    },
+    {
+        "title": "University Of Alberta",
+        "rating": 4.6,
+        "reviews": 5
+    },
+    {
+        "title": "Universitas Waterloo",
+        "rating": 4.3,
+        "reviews": 1005
+    },
+    {
+        "title": "Universitas Tohoku",
+        "rating": 4.4,
+        "reviews": 244
+    },
+    {
+        "title": "Western University",
+        "rating": 4.3,
+        "reviews": 898
+    },
+    {
+        "title": "Universitas Helsinki",
+        "rating": 4.5,
+        "reviews": 236
+    },
+    {
+        "title": "Universitas Southern California",
+        "rating": 4.6,
+        "reviews": 1632
+    },
+    {
+        "title": "Universitas Oslo",
+        "rating": 4.5,
+        "reviews": 329
+    },
+    {
+        "title": "Universitas Stockholm",
+        "rating": 4.3,
+        "reviews": 340
+    },
+    {
+        "title": "Universitas California",
+        "rating": 4.4,
+        "reviews": 900
+    },
+    {
+        "title": "Institut Teknologi Karlsruhe",
+        "rating": 4.5,
+        "reviews": 607
+    },
+    {
+        "title": "Universitas Humboldt Berlin",
+        "rating": 4.4,
+        "reviews": 1047
+    },
+    {
+        "title": "Universitas Teknik Denmark",
+        "rating": 4.7,
+        "reviews": 484
+    },
+    {
+        "title": "Universitas Lancaster",
+        "rating": 4.4,
+        "reviews": 624
+    },
+    {
+        "title": "Politeknik Milano",
+        "rating": 4.4,
+        "reviews": 1544
+    },
+    {
+        "title": "Universitas Teknologi Eindhoven",
+        "rating": 4.4,
+        "reviews": 685
+    },
+    {
+        "title": "Universitas Basel",
+        "rating": 4.4,
+        "reviews": 528
+    },
+    {
+        "title": "Universitas Leiden",
+        "rating": 4.3,
+        "reviews": 294
+    },
+    {
+        "title": "University of Bern",
+        "rating": 4.6,
+        "reviews": 545
+    },
+    {
+        "title": "Universitas Jenewa",
+        "rating": 4.4,
+        "reviews": 321
+    },
+    {
+        "title": "Universitas Teknologi Chalmers",
+        "rating": 4.7,
+        "reviews": 434
+    },
+    {
+        "title": "Universitas Macquarie",
+        "rating": 4.4,
+        "reviews": 860
+    },
+    {
+        "title": "Universitas Wina",
+        "rating": 4.5,
+        "reviews": 845
+    },
+    {
+        "title": "Universitas Carolina Utara",
+        "rating": 4.6,
+        "reviews": 1060
+    },
+    {
+        "title": "Sapienza Universitas Roma",
+        "rating": 4.3,
+        "reviews": 2271
+    },
+    {
+        "title": "Universitas Texas A&M",
+        "rating": 4.4,
+        "reviews": 834
+    },
+    {
+        "title": "Universitas Negeri Michigan",
+        "rating": 4.4,
+        "reviews": 1298
+    },
+    {
+        "title": "Universitas Sains Malaysia",
+        "rating": 4.6,
+        "reviews": 772
+    },
+    {
+        "title": "University of Science and Technology of China",
+        "rating": 3,
+        "reviews": 4
+    },
+    {
+        "title": "Universitas Groningen",
+        "rating": 4.4,
+        "reviews": 389
+    },
+    {
+        "title": "Universitas RMIT",
+        "rating": 3.9,
+        "reviews": 706
+    },
+    {
+        "title": "Universitas Nanjing",
+        "rating": 4.8,
+        "reviews": 148
+    },
+    {
+        "title": "University of Montreal",
+        "rating": 4.3,
+        "reviews": 699
+    },
+    {
+        "title": "Universitas Aarhus",
+        "rating": 4.5,
+        "reviews": 273
+    },
+    {
+        "title": "King Abdulaziz University - Gate 2",
+        "rating": null,
+        "reviews": null
+    },
+    {
+        "title": "Queen Mary",
+        "rating": 4.2,
+        "reviews": 661
+    },
+    {
+        "title": "Rice University",
+        "rating": 4.7,
+        "reviews": 744
+    },
+    {
+        "title": "Universitas Sungkyunkwan",
+        "rating": 4.6,
+        "reviews": 453
+    },
+    {
+        "title": "Universitas Bath",
+        "rating": 4.5,
+        "reviews": 460
+    },
+    {
+        "title": "Institut Teknologi India Bombay",
+        "rating": 4.7,
+        "reviews": 4010
+    },
+    {
+        "title": "Universitat Aut\u00f2noma de Barcelona",
+        "rating": 4.2,
+        "reviews": 1116
+    },
+    {
+        "title": "Universitas Negeri Ohio",
+        "rating": 4.5,
+        "reviews": 1928
+    },
+    {
+        "title": "Universitas Wageningen",
+        "rating": 4.7,
+        "reviews": 548
+    },
+    {
+        "title": "Universitas Exeter",
+        "rating": 4.4,
+        "reviews": 418
+    },
+    {
+        "title": "Universitas Bologna",
+        "rating": 4.5,
+        "reviews": 736
+    },
+    {
+        "title": "Cardiff University",
+        "rating": 4.4,
+        "reviews": 521
+    },
+    {
+        "title": "Universitas Teknologi Berlin",
+        "rating": 4.1,
+        "reviews": 875
+    },
+    {
+        "title": "Universitas Washington di St. Louis",
+        "rating": 4.5,
+        "reviews": 484
+    },
+    {
+        "title": "Universitas Putra Malaysia",
+        "rating": 4.5,
+        "reviews": 1518
+    },
+    {
+        "title": "Universitas Ghent",
+        "rating": 4.5,
+        "reviews": 604
+    },
+    {
+        "title": "Universitas Chili",
+        "rating": 4.3,
+        "reviews": 665
+    },
+    {
+        "title": "Universiti Kebangsaan Malaysia",
+        "rating": 4.5,
+        "reviews": 630
+    },
+    {
+        "title": "Universitas Wollongong",
+        "rating": 4.4,
+        "reviews": 553
+    },
+    {
+        "title": "Universitas California",
+        "rating": 4.6,
+        "reviews": 653
+    },
+    {
+        "title": "Universitas Hanyang",
+        "rating": 4.6,
+        "reviews": 939
+    },
+    {
+        "title": "Kyushu University Ito Campus",
+        "rating": 4.2,
+        "reviews": 352
+    },
+    {
+        "title": "Universitat de Barcelona",
+        "rating": 4.4,
+        "reviews": 1133
+    },
+    {
+        "title": "Emory University",
+        "rating": 4.3,
+        "reviews": 273
+    },
+    {
+        "title": "Universitas York",
+        "rating": 4.5,
+        "reviews": 499
+    },
+    {
+        "title": "Universitas Florida",
+        "rating": 4.4,
+        "reviews": 679
+    },
+    {
+        "title": "Universitas Maryland",
+        "rating": 4.5,
+        "reviews": 1132
+    },
+    {
+        "title": "Universitas Reading",
+        "rating": 4.4,
+        "reviews": 522
+    },
+    {
+        "title": "Universitas Complutense Madrid",
+        "rating": 4.2,
+        "reviews": 2748
+    },
+    {
+        "title": "Universitas Kolese Dublin",
+        "rating": 4.6,
+        "reviews": 868
+    },
+    {
+        "title": "Qatar University",
+        "rating": 4.5,
+        "reviews": 1578
+    },
+    {
+        "title": "Universitas Newcastle",
+        "rating": 4.2,
+        "reviews": 370
+    },
+    {
+        "title": "Universitas Cape Town",
+        "rating": 4.6,
+        "reviews": 1305
+    },
+    {
+        "title": "Universitas Erasmus Rotterdam",
+        "rating": 4.3,
+        "reviews": 367
+    },
+    {
+        "title": "Universitas Nagoya",
+        "rating": 4.4,
+        "reviews": 433
+    },
+    {
+        "title": "Universitas Liverpool",
+        "rating": 4.3,
+        "reviews": 551
+    },
+    {
+        "title": "Arizona State University",
+        "rating": 4.4,
+        "reviews": 1575
+    },
+    {
+        "title": "King Fahd University of Petroleum and Minerals",
+        "rating": 4.5,
+        "reviews": 1653
+    },
+    {
+        "title": "UCLouvain",
+        "rating": 4.3,
+        "reviews": 295
+    },
+    {
+        "title": "University of Calgary",
+        "rating": 4.2,
+        "reviews": 775
+    },
+    {
+        "title": "Universitas Curtin",
+        "rating": 4,
+        "reviews": 735
+    },
+    {
+        "title": "Vienna University of Technology",
+        "rating": 4.4,
+        "reviews": 534
+    },
+    {
+        "title": "Tecnol\u00f3gico de Monterrey",
+        "rating": 4.7,
+        "reviews": 1557
+    },
+    {
+        "title": "\u00c9cole normale sup\u00e9rieure de Lyon",
+        "rating": 4,
+        "reviews": 132
+    },
+    {
+        "title": "University of Gothenburg",
+        "rating": 4.2,
+        "reviews": 397
+    },
+    {
+        "title": "Universitas Teknologi Malaysia",
+        "rating": 4.5,
+        "reviews": 452
+    },
+    {
+        "title": "McMaster University",
+        "rating": 4.4,
+        "reviews": 1022
+    },
+    {
+        "title": "Universitas Teknologi Queensland",
+        "rating": 4.5,
+        "reviews": 721
+    },
+    {
+        "title": "Universit\u00e9 Libre de Bruxelles",
+        "rating": 4.2,
+        "reviews": 759
+    },
+    {
+        "title": "Universitas Freiburg",
+        "rating": 4.5,
+        "reviews": 725
+    },
+    {
+        "title": "\u00c9cole des ponts ParisTech",
+        "rating": 4.7,
+        "reviews": 142
+    },
+    {
+        "title": "Wuhan University",
+        "rating": 4.6,
+        "reviews": 206
+    },
+    {
+        "title": "Universitas Minnesota",
+        "rating": 4.4,
+        "reviews": 299
+    },
+    {
+        "title": "Universitas Hokkaido",
+        "rating": 4.5,
+        "reviews": 1376
+    },
+    {
+        "title": "Indian Institute of Technology Delhi",
+        "rating": null,
+        "reviews": null
+    },
+    {
+        "title": "University of the Andes",
+        "rating": 4.7,
+        "reviews": 1643
+    },
+    {
+        "title": "Autonomous University of Madrid",
+        "rating": 4.3,
+        "reviews": 827
+    },
+    {
+        "title": "Universitas Ratu Belfast",
+        "rating": 4.5,
+        "reviews": 695
+    },
+    {
+        "title": "King Saud University",
+        "rating": null,
+        "reviews": null
+    },
+    {
+        "title": "University of Ottawa",
+        "rating": 4.1,
+        "reviews": 852
+    },
+    {
+        "title": "Universitas Hamburg",
+        "rating": 4.1,
+        "reviews": 519
+    },
+    {
+        "title": "Universitas Otago",
+        "rating": 4.7,
+        "reviews": 391
+    },
+    {
+        "title": "Universitas Vrije Amsterdam",
+        "rating": 4.2,
+        "reviews": 608
+    },
+    {
+        "title": "Universitas Aberdeen",
+        "rating": 4.6,
+        "reviews": 385
+    },
+    {
+        "title": "Queen's University",
+        "rating": 4.3,
+        "reviews": 575
+    },
+    {
+        "title": "Universitas Twente",
+        "rating": 4.4,
+        "reviews": 412
+    },
+    {
+        "title": "Universitas Chulalongkorn",
+        "rating": 4.7,
+        "reviews": 1140
+    },
+    {
+        "title": "Universitas Loughborough",
+        "rating": 4.6,
+        "reviews": 633
+    },
+    {
+        "title": "Universitas T\u00fcbingen",
+        "rating": 4.4,
+        "reviews": 734
+    },
+    {
+        "title": "Universitas Keio",
+        "rating": 4.1,
+        "reviews": 675
+    },
+    {
+        "title": "Universitas Tel Aviv",
+        "rating": 4.4,
+        "reviews": 1263
+    },
+    {
+        "title": "Universitas Tongji",
+        "rating": 4.8,
+        "reviews": 29
+    },
+    {
+        "title": "National Yang Ming Chiao Tung University",
+        "rating": 4.6,
+        "reviews": 1667
+    },
+    {
+        "title": "Universitas Sussex",
+        "rating": 4.3,
+        "reviews": 461
+    },
+    {
+        "title": "Universitas Padova",
+        "rating": 4.5,
+        "reviews": 1519
+    },
+    {
+        "title": "UNICAMP Universidade Estadual de Campinas",
+        "rating": 4.7,
+        "reviews": 3127
+    },
+    {
+        "title": "Universitas Lausanne",
+        "rating": 4.3,
+        "reviews": 238
+    },
+    {
+        "title": "Universitas Radboud Nijmegen",
+        "rating": 4.6,
+        "reviews": 983
+    },
+    {
+        "title": "Universitas Pittsburgh",
+        "rating": 4.5,
+        "reviews": 672
+    },
+    {
+        "title": "Universitas Rochester",
+        "rating": 4.5,
+        "reviews": 404
+    },
+    {
+        "title": "Indian Institute of Science",
+        "rating": 4.8,
+        "reviews": 2383
+    },
+    {
+        "title": "Universitas Amerika di Beirut",
+        "rating": 4.4,
+        "reviews": 644
+    },
+    {
+        "title": "Universidad Nacional de Colombia",
+        "rating": 4.8,
+        "reviews": 4441
+    },
+    {
+        "title": "Universitas Nasional Cheng Kung",
+        "rating": 4.6,
+        "reviews": 3380
+    },
+    {
+        "title": "University of Erlangen-Nuremberg",
+        "rating": 4.1,
+        "reviews": 260
+    },
+    {
+        "title": "Al-Farabi Kazakh National University",
+        "rating": 4.5,
+        "reviews": 1700
+    },
+    {
+        "title": "Khalifa University",
+        "rating": 4.5,
+        "reviews": 466
+    },
+    {
+        "title": "Universitas Georg August G\u00f6ttingen",
+        "rating": 4.5,
+        "reviews": 468
+    },
+    {
+        "title": "Deakin College Jakarta",
+        "rating": 4.9,
+        "reviews": 59
+    },
+    {
+        "title": "National Tsing Hua University",
+        "rating": 4.6,
+        "reviews": 2513
+    },
+    {
+        "title": "Heriot-Watt University Edinburgh Campus",
+        "rating": 4.5,
+        "reviews": 463
+    },
+    {
+        "title": "Cit\u00e9 Internationale Universitaire de Paris",
+        "rating": 4.4,
+        "reviews": 2956
+    },
+    {
+        "title": "Perguruan Tinggi Dartmouth",
+        "rating": 4.5,
+        "reviews": 369
+    },
+    {
+        "title": "Universitas Indonesia",
+        "rating": 4.7,
+        "reviews": 6369
+    },
+    {
+        "title": "Massey University",
+        "rating": 4.4,
+        "reviews": 186
+    },
+    {
+        "title": "Universitas Bonn",
+        "rating": 4.4,
+        "reviews": 719
+    },
+    {
+        "title": "Universitas Victoria Wellington",
+        "rating": 4.3,
+        "reviews": 335
+    },
+    {
+        "title": "La Trobe University City Campus",
+        "rating": 4,
+        "reviews": 53
+    },
+    {
+        "title": "Griffith University",
+        "rating": 3.6,
+        "reviews": 33
+    },
+    {
+        "title": "University Of Surrey",
+        "rating": 4.5,
+        "reviews": 557
+    },
+    {
+        "title": "Universitas Massachusetts Amherst",
+        "rating": 4.4,
+        "reviews": 257
+    },
+    {
+        "title": "Technische Universit\u00e4t Darmstadt",
+        "rating": 4.4,
+        "reviews": 362
+    },
+    {
+        "title": "Dresden University of Technology",
+        "rating": 4.5,
+        "reviews": 522
+    },
+    {
+        "title": "Universitas Charles di Praha",
+        "rating": 4.5,
+        "reviews": 236
+    },
+    {
+        "title": "University of Antwerp",
+        "rating": 4.5,
+        "reviews": 212
+    },
+    {
+        "title": "THe University Of Waikato - Jakarta Representative",
+        "rating": 1,
+        "reviews": 2
+    },
+    {
+        "title": "Universitas Ibrani Yerusalem",
+        "rating": 4.3,
+        "reviews": 1094
+    },
+    {
+        "title": "Politecnico di Torino",
+        "rating": 4.5,
+        "reviews": 1256
+    },
+    {
+        "title": "University of Porto",
+        "rating": 4.6,
+        "reviews": 425
+    },
+    {
+        "title": "University of Macao",
+        "rating": 4,
+        "reviews": 80
+    },
+    {
+        "title": "Case Western Reserve University",
+        "rating": 4.5,
+        "reviews": 362
+    },
+    {
+        "title": "Harbin Institute of Technology",
+        "rating": 4.7,
+        "reviews": 109
+    },
+    {
+        "title": "Universitas Maastricht",
+        "rating": 4.5,
+        "reviews": 414
+    },
+    {
+        "title": "Universitas Canterbury",
+        "rating": 4.4,
+        "reviews": 208
+    },
+    {
+        "title": "Vrije Universiteit Brussel",
+        "rating": 4.5,
+        "reviews": 392
+    },
+    {
+        "title": "University of Virginia",
+        "rating": 4,
+        "reviews": 1
+    },
+    {
+        "title": "Universitas Vanderbilt",
+        "rating": 4.4,
+        "reviews": 739
+    },
+    {
+        "title": "Universitas Warsawa",
+        "rating": 4.4,
+        "reviews": 1054
+    },
+    {
+        "title": "Universitas Gadjah Mada",
+        "rating": 4.7,
+        "reviews": 8530
+    },
+    {
+        "title": "Universitas Colorado Boulder",
+        "rating": 4.5,
+        "reviews": 743
+    },
+    {
+        "title": "University of the Witwatersrand",
+        "rating": 4.6,
+        "reviews": 1597
+    },
+    {
+        "title": "UNIST | Ulsan National Institute of Science & Technology",
+        "rating": 4.7,
+        "reviews": 269
+    },
+    {
+        "title": "University of Lisbon",
+        "rating": 4.5,
+        "reviews": 1748
+    },
+    {
+        "title": "Link\u00f6ping University",
+        "rating": 4.6,
+        "reviews": 296
+    },
+    {
+        "title": "University of California",
+        "rating": 4.4,
+        "reviews": 1021
+    },
+    {
+        "title": "University of Cologne",
+        "rating": 4,
+        "reviews": 385
+    },
+    {
+        "title": "Institut Teknologi Kharagpur",
+        "rating": 4.6,
+        "reviews": 4302
+    },
+    {
+        "title": "Beijing Normal University",
+        "rating": 4.5,
+        "reviews": 110
+    },
+    {
+        "title": "Universitas Leicester",
+        "rating": 4.2,
+        "reviews": 218
+    },
+    {
+        "title": "North Carolina State University",
+        "rating": 4.6,
+        "reviews": 1053
+    },
+    {
+        "title": "Universitas Sains dan Teknologi Huazhong",
+        "rating": 4.4,
+        "reviews": 47
+    },
+    {
+        "title": "Universitas Milan",
+        "rating": 4.4,
+        "reviews": 1061
+    },
+    {
+        "title": "University of Strathclyde",
+        "rating": 4.3,
+        "reviews": 352
+    },
+    {
+        "title": "Indian Institute of Technology Kanpur",
+        "rating": 4.7,
+        "reviews": 1950
+    },
+    {
+        "title": "University of Miami",
+        "rating": 4.6,
+        "reviews": 339
+    },
+    {
+        "title": "University of Navarra",
+        "rating": 4.7,
+        "reviews": 350
+    },
+    {
+        "title": "Institut Teknologi Bandung",
+        "rating": 4.7,
+        "reviews": 5047
+    },
+    {
+        "title": "Universitas Bergen",
+        "rating": 4.6,
+        "reviews": 240
+    },
+    {
+        "title": "Universitas Stellenbosch",
+        "rating": 4.6,
+        "reviews": 1282
+    },
+    {
+        "title": "Taylor\u2019s University",
+        "rating": 3.9,
+        "reviews": 649
+    },
+    {
+        "title": "Indian Institute Of Technology\u2013Madras (IIT\u2013Madras)",
+        "rating": 4.7,
+        "reviews": 1990
+    },
+    {
+        "title": "Universitas Teknologi Swinburne",
+        "rating": 3.9,
+        "reviews": 608
+    },
+    {
+        "title": "Universitas Arizona",
+        "rating": 4.5,
+        "reviews": 1354
+    },
+    {
+        "title": "Tianjin University Peiyang School",
+        "rating": 4.2,
+        "reviews": 13
+    },
+    {
+        "title": "Universitas Nasional Irlandia",
+        "rating": 4.5,
+        "reviews": 330
+    },
+    {
+        "title": "Universitas Uni Emirat Arab",
+        "rating": 4.5,
+        "reviews": 644
+    },
+    {
+        "title": "Xi'an Jiaotong University",
+        "rating": 4.5,
+        "reviews": 106
+    },
+    {
+        "title": "Norwegian University of Science and Technology",
+        "rating": 4.7,
+        "reviews": 404
+    },
+    {
+        "title": "University College Cork",
+        "rating": 4.6,
+        "reviews": 809
+    },
+    {
+        "title": "Universit\u00e9 Grenoble Alpes",
+        "rating": 4.4,
+        "reviews": 524
+    },
+    {
+        "title": "Hong Kong Baptist University",
+        "rating": 4,
+        "reviews": 66
+    },
+    {
+        "title": "Universitas East Anglia",
+        "rating": 4.5,
+        "reviews": 500
+    },
+    {
+        "title": "Universitas Georgetown",
+        "rating": 4.5,
+        "reviews": 1078
+    },
+    {
+        "title": "Dalhousie University",
+        "rating": 4.2,
+        "reviews": 419
+    },
+    {
+        "title": "Rutgers\u2013New Brunswick",
+        "rating": 4.4,
+        "reviews": 762
+    },
+    {
+        "title": "UCSI University",
+        "rating": 4.5,
+        "reviews": 3827
+    },
+    {
+        "title": "Universitas Goethe Frankfurt",
+        "rating": 4.2,
+        "reviews": 721
+    },
+    {
+        "title": "Institut Politeknik dan Universitas Negeri Virginia",
+        "rating": 4.6,
+        "reviews": 842
+    },
+    {
+        "title": "Universitas Jagiellonian",
+        "rating": 4.4,
+        "reviews": 698
+    },
+    {
+        "title": "Universitas Notre Dame",
+        "rating": 4.6,
+        "reviews": 1336
+    },
+    {
+        "title": "University of Johannesburg - Soweto Campus",
+        "rating": 4.5,
+        "reviews": 513
+    },
+    {
+        "title": "Daegu Gyeongbuk Institute of Science & Technology (DGIST)",
+        "rating": 4.5,
+        "reviews": 121
+    },
+    {
+        "title": "Swansea University",
+        "rating": 4.5,
+        "reviews": 318
+    },
+    {
+        "title": "Universitas Teknologi Petronas",
+        "rating": 4.5,
+        "reviews": 587
+    },
+    {
+        "title": "Universitas Tasmania",
+        "rating": 3.9,
+        "reviews": 252
+    },
+    {
+        "title": "Universitas Hamad Bin Khalifa",
+        "rating": 4.5,
+        "reviews": 68
+    },
+    {
+        "title": "Pompeu Fabra University",
+        "rating": 3.8,
+        "reviews": 144
+    },
+    {
+        "title": "Universitas Stuttgart",
+        "rating": 4.1,
+        "reviews": 259
+    },
+    {
+        "title": "Universitas Indiana Bloomington",
+        "rating": 4.3,
+        "reviews": 352
+    },
+    {
+        "title": "University of Oulu",
+        "rating": 4.5,
+        "reviews": 259
+    },
+    {
+        "title": "Quaid e Azam University Islamabad",
+        "rating": 4.6,
+        "reviews": 3700
+    },
+    {
+        "title": "Universitas Negeri Sankt-Peterburg",
+        "rating": 4.4,
+        "reviews": 431
+    },
+    {
+        "title": "Universitas Turku",
+        "rating": 4.1,
+        "reviews": 99
+    },
+    {
+        "title": "Universitas Simon Fraser",
+        "rating": 4.2,
+        "reviews": 917
+    },
+    {
+        "title": "Bauman Moscow State Technical University",
+        "rating": 4.2,
+        "reviews": 841
+    },
+    {
+        "title": "Institut Ilmu Politik Paris",
+        "rating": 4,
+        "reviews": 303
+    },
+    {
+        "title": "University Carlos III of Madrid | Puerta de Toledo",
+        "rating": 4.3,
+        "reviews": 113
+    },
+    {
+        "title": "University of Victoria",
+        "rating": 4.3,
+        "reviews": 558
+    },
+    {
+        "title": "Sun Yat-sen University",
+        "rating": 4.6,
+        "reviews": 124
+    },
+    {
+        "title": "Universitas Illinois di Chicago",
+        "rating": 4.4,
+        "reviews": 706
+    },
+    {
+        "title": "University of Pretoria",
+        "rating": 4.6,
+        "reviews": 1440
+    },
+    {
+        "title": "University of South Australia, City West Campus",
+        "rating": 4.7,
+        "reviews": 242
+    },
+    {
+        "title": "University of Southern Denmark",
+        "rating": 4.6,
+        "reviews": 280
+    },
+    {
+        "title": "City, University of London",
+        "rating": 4.3,
+        "reviews": 429
+    },
+    {
+        "title": "GIST | Gwangju Institute of Science and Technology",
+        "rating": 4.6,
+        "reviews": 176
+    },
+    {
+        "title": "USI Universit\u00e0 della Svizzera italiana",
+        "rating": 4.7,
+        "reviews": 136
+    },
+    {
+        "title": "Universitas Paris 1 Panth\u00e9on-Sorbonne",
+        "rating": 4.2,
+        "reviews": 341
+    },
+    {
+        "title": "Universitas Kyunghee",
+        "rating": 4.6,
+        "reviews": 881
+    },
+    {
+        "title": "University of California Santa Cruz",
+        "rating": 4.4,
+        "reviews": 292
+    },
+    {
+        "title": "Sharif University of Technology",
+        "rating": 4.6,
+        "reviews": 344
+    },
+    {
+        "title": "Universitas Naples Federico II",
+        "rating": 4.3,
+        "reviews": 1133
+    },
+    {
+        "title": "Aalborg University",
+        "rating": 4.5,
+        "reviews": 208
+    },
+    {
+        "title": "Universitas Teknik Timur Tengah",
+        "rating": 4.7,
+        "reviews": 305
+    },
+    {
+        "title": "Pontifical Catholic University of Peru",
+        "rating": 4.6,
+        "reviews": 2051
+    },
+    {
+        "title": "University of Kent",
+        "rating": 4.3,
+        "reviews": 451
+    },
+    {
+        "title": "Beijing Institute of Technology",
+        "rating": 4.6,
+        "reviews": 37
+    },
+    {
+        "title": "Universitas George Washington",
+        "rating": 4.4,
+        "reviews": 691
+    },
+    {
+        "title": "Universitas Patrice Lumumba",
+        "rating": 4.4,
+        "reviews": 1480
+    },
+    {
+        "title": "Universitas Brunel London",
+        "rating": 4.4,
+        "reviews": 695
+    },
+    {
+        "title": "University of Aveiro",
+        "rating": 4.6,
+        "reviews": 692
+    },
+    {
+        "title": "Universitas Airlangga",
+        "rating": 4.4,
+        "reviews": 33
+    },
+    {
+        "title": "Universitas Saskatchewan",
+        "rating": 4.3,
+        "reviews": 649
+    },
+    {
+        "title": "National Metsovio Polythechnic",
+        "rating": null,
+        "reviews": null
+    },
+    {
+        "title": "Pontifical Javierian University",
+        "rating": 4.7,
+        "reviews": 2671
+    },
+    {
+        "title": "Universidad Polit\u00e9cnica de Madrid",
+        "rating": 4,
+        "reviews": 430
+    },
+    {
+        "title": "Universitas Pisa",
+        "rating": 4.1,
+        "reviews": 137
+    },
+    {
+        "title": "LUT University",
+        "rating": 4.6,
+        "reviews": 195
+    },
+    {
+        "title": "Universitas Coimbra",
+        "rating": 4.6,
+        "reviews": 2252
+    },
+    {
+        "title": "Universitas York",
+        "rating": 4.5,
+        "reviews": 499
+    },
+    {
+        "title": "Universitat Polit\u00e8cnica de Catalunya \u00b7 Barcelona Tech - UPC",
+        "rating": 4.1,
+        "reviews": 123
+    },
+    {
+        "title": "L.N. Gumilyov Eurasian National University",
+        "rating": 4.3,
+        "reviews": 876
+    },
+    {
+        "title": "Sichuan University",
+        "rating": 4.2,
+        "reviews": 59
+    },
+    {
+        "title": "Universitas Tsukuba",
+        "rating": 4.3,
+        "reviews": 580
+    },
+    {
+        "title": "Universitas Florence",
+        "rating": 4.3,
+        "reviews": 321
+    },
+    {
+        "title": "Universitas Tartu",
+        "rating": 4.7,
+        "reviews": 888
+    },
+    {
+        "title": "Shandong University",
+        "rating": 4,
+        "reviews": 59
+    },
+    {
+        "title": "University of Tehran",
+        "rating": 4.5,
+        "reviews": 426
+    },
+    {
+        "title": "Lincoln University College",
+        "rating": 4.4,
+        "reviews": 269
+    },
+    {
+        "title": "Universitas Innsbruck",
+        "rating": 4.6,
+        "reviews": 518
+    },
+    {
+        "title": "American University of Sharjah",
+        "rating": 4.4,
+        "reviews": 650
+    },
+    {
+        "title": "Indian Institute of Technology Guwahati",
+        "rating": 4.7,
+        "reviews": 38
+    },
+    {
+        "title": "Universitas Torino",
+        "rating": 4.3,
+        "reviews": 983
+    },
+    {
+        "title": "National University of Sciences & Technology (NUST)",
+        "rating": 4.6,
+        "reviews": 2778
+    },
+    {
+        "title": "University of Cyprus (Old Campus)",
+        "rating": 4.2,
+        "reviews": 102
+    },
+    {
+        "title": "Indian Institute Of Technology Roorkee",
+        "rating": 4.7,
+        "reviews": 4091
+    },
+    {
+        "title": "Universitas Yeshiva",
+        "rating": 4.3,
+        "reviews": 58
+    },
+    {
+        "title": "Cairo University",
+        "rating": 5,
+        "reviews": 2
+    },
+    {
+        "title": "Tilburg University",
+        "rating": 4.3,
+        "reviews": 321
+    },
+    {
+        "title": "Universidade Federal do Rio de Janeiro",
+        "rating": 4.6,
+        "reviews": 632
+    },
+    {
+        "title": "Birkbeck, University of London",
+        "rating": 4.1,
+        "reviews": 316
+    },
+    {
+        "title": "Amirkabir University of Technology (Tehran Polytechnique)",
+        "rating": 4.4,
+        "reviews": 259
+    },
+    {
+        "title": "Northeastern University",
+        "rating": 4.7,
+        "reviews": 1041
+    },
+    {
+        "title": "Ruhr-Universit\u00e4t Bochum",
+        "rating": 4.3,
+        "reviews": 1000
+    },
+    {
+        "title": "Western Sydney University",
+        "rating": 3.7,
+        "reviews": 11
+    },
+    {
+        "title": "Tufts University",
+        "rating": 4.3,
+        "reviews": 374
+    },
+    {
+        "title": "Universitas Flinders",
+        "rating": 4.3,
+        "reviews": 582
+    },
+    {
+        "title": "Universitas Luksemburg",
+        "rating": 4.2,
+        "reviews": 269
+    },
+    {
+        "title": "Mahidol University",
+        "rating": 4.7,
+        "reviews": 1105
+    },
+    {
+        "title": "Universit\u00e9 Montpellier",
+        "rating": 4.4,
+        "reviews": 40
+    },
+    {
+        "title": "Universitas Nankai",
+        "rating": 4.5,
+        "reviews": 62
+    },
+    {
+        "title": "University of M\u00fcnster",
+        "rating": 4.5,
+        "reviews": 895
+    },
+    {
+        "title": "University of Hawaii at Manoa",
+        "rating": 4.3,
+        "reviews": 347
+    },
+    {
+        "title": "Universit\u00e9 d'Aix-Marseille",
+        "rating": 3.9,
+        "reviews": 110
+    },
+    {
+        "title": "Belarusian State University",
+        "rating": 4.1,
+        "reviews": 333
+    },
+    {
+        "title": "Concordia University",
+        "rating": 4.1,
+        "reviews": 765
+    },
+    {
+        "title": "National Taiwan University of Science and Technology",
+        "rating": 4.6,
+        "reviews": 1633
+    },
+    {
+        "title": "Universitas Brunei Darussalam",
+        "rating": 4.3,
+        "reviews": 128
+    },
+    {
+        "title": "INSA Lyon",
+        "rating": 4.6,
+        "reviews": 287
+    },
+    {
+        "title": "South China University of Technology",
+        "rating": 4.3,
+        "reviews": 86
+    },
+    {
+        "title": "Technion",
+        "rating": 4.6,
+        "reviews": 824
+    },
+    {
+        "title": "Universitas Xiamen",
+        "rating": 4.6,
+        "reviews": 237
+    },
+    {
+        "title": "Universitas Justus Liebig Giessen",
+        "rating": 4.3,
+        "reviews": 176
+    },
+    {
+        "title": "Universitas Negeri Kazan",
+        "rating": 4.4,
+        "reviews": 905
+    },
+    {
+        "title": "Universitas Stony Brook",
+        "rating": 4.4,
+        "reviews": 1054
+    },
+    {
+        "title": "HSE University",
+        "rating": 4.5,
+        "reviews": 381
+    },
+    {
+        "title": "Iowa State University",
+        "rating": 4.6,
+        "reviews": 304
+    },
+    {
+        "title": "Universidade NOVA de Lisboa",
+        "rating": 4.4,
+        "reviews": 145
+    },
+    {
+        "title": "Universitas Granada",
+        "rating": 3.8,
+        "reviews": 143
+    },
+    {
+        "title": "Universitas Teknik Istanbul",
+        "rating": 4.6,
+        "reviews": 1850
+    },
+    {
+        "title": "Universitas California",
+        "rating": 4.4,
+        "reviews": 734
+    },
+    {
+        "title": "Universitas Filipina, Diliman",
+        "rating": 4.6,
+        "reviews": 1545
+    },
+    {
+        "title": "Universitas Teknologi Auckland",
+        "rating": 4.5,
+        "reviews": 481
+    },
+    {
+        "title": "Universitas Delhi",
+        "rating": 4.2,
+        "reviews": 3037
+    },
+    {
+        "title": "Colorado State University",
+        "rating": 4.3,
+        "reviews": 352
+    },
+    {
+        "title": "Universitas Santiago de Chile",
+        "rating": 4.6,
+        "reviews": 693
+    },
+    {
+        "title": "Universitas Kansas",
+        "rating": 4.1,
+        "reviews": 285
+    },
+    {
+        "title": "University of Southern Queensland (UniSQ)",
+        "rating": 4.1,
+        "reviews": 237
+    },
+    {
+        "title": "Oxford Brookes University",
+        "rating": 4.4,
+        "reviews": 349
+    },
+    {
+        "title": "Royal Holloway",
+        "rating": 4.6,
+        "reviews": 610
+    },
+    {
+        "title": "Universitas James Cook Singapura",
+        "rating": 3.9,
+        "reviews": 160
+    },
+    {
+        "title": "Moscow Institute of Physics and Technology",
+        "rating": 4.6,
+        "reviews": 662
+    },
+    {
+        "title": "Universitas Amerika di Kairo",
+        "rating": 4.5,
+        "reviews": 2149
+    },
+    {
+        "title": "Tomsk State University",
+        "rating": 4.5,
+        "reviews": 440
+    },
+    {
+        "title": "Instituto de Artes - C\u00e2mpus de S\u00e3o Paulo - IA/Unesp",
+        "rating": 4.8,
+        "reviews": 122
+    },
+    {
+        "title": "Washington State University",
+        "rating": 5,
+        "reviews": 2
+    },
+    {
+        "title": "TU Graz",
+        "rating": 4.7,
+        "reviews": 139
+    },
+    {
+        "title": "Novosibirsk State University",
+        "rating": 4.6,
+        "reviews": 569
+    },
+    {
+        "title": "University of Canberra",
+        "rating": 4,
+        "reviews": 347
+    },
+    {
+        "title": "University of Li\u00e8ge",
+        "rating": 4.3,
+        "reviews": 510
+    },
+    {
+        "title": "Strasbourg University",
+        "rating": 4.4,
+        "reviews": 458
+    },
+    {
+        "title": "University of Limerick",
+        "rating": 4.7,
+        "reviews": 477
+    },
+    {
+        "title": "Anna University",
+        "rating": 4.4,
+        "reviews": 2304
+    },
+    {
+        "title": "IE University",
+        "rating": 4.4,
+        "reviews": 87
+    },
+    {
+        "title": "Universitas Teknologi dan Desain Singapura",
+        "rating": 4.7,
+        "reviews": 320
+    },
+    {
+        "title": "Universitas Trento",
+        "rating": 4.5,
+        "reviews": 51
+    },
+    {
+        "title": "Universitas Ko\u00e7",
+        "rating": 4.5,
+        "reviews": 702
+    },
+    {
+        "title": "Universitas Murdoch",
+        "rating": 4.2,
+        "reviews": 404
+    },
+    {
+        "title": "Universitas Nasional Teknologi Taipei",
+        "rating": 4.4,
+        "reviews": 1256
+    },
+    {
+        "title": "National Taiwan Normal University",
+        "rating": 4.4,
+        "reviews": 1415
+    },
+    {
+        "title": "Universitas Stirling",
+        "rating": 4.4,
+        "reviews": 384
+    },
+    {
+        "title": "Dublin City University",
+        "rating": 4.4,
+        "reviews": 499
+    },
+    {
+        "title": "Sejong University",
+        "rating": 4.4,
+        "reviews": 532
+    },
+    {
+        "title": "Tampere University, City Centre Campus",
+        "rating": 4.5,
+        "reviews": 178
+    },
+    {
+        "title": "University of Science and Technology Beijing",
+        "rating": 4.5,
+        "reviews": 8
+    },
+    {
+        "title": "Stadt St.Gallen, Standortf\u00f6rderung",
+        "rating": null,
+        "reviews": null
+    },
+    {
+        "title": "Julius-Maximilians-Universit\u00e4t W\u00fcrzburg",
+        "rating": 4.5,
+        "reviews": 581
+    },
+    {
+        "title": "Universitas Dundee",
+        "rating": 4.6,
+        "reviews": 318
+    },
+    {
+        "title": "University of Utah",
+        "rating": 4.5,
+        "reviews": 1304
+    },
+    {
+        "title": "Laval University",
+        "rating": 4.2,
+        "reviews": 948
+    },
+    {
+        "title": "National and Kapodistrian University of Athens",
+        "rating": 4.4,
+        "reviews": 805
+    },
+    {
+        "title": "University of Connecticut",
+        "rating": 4.5,
+        "reviews": 484
+    },
+    {
+        "title": "ASTON INN",
+        "rating": null,
+        "reviews": null
+    },
+    {
+        "title": "Johannes Kepler University Linz - JKU",
+        "rating": 4.4,
+        "reviews": 371
+    }
+]
