@@ -264,6 +264,12 @@ def transform_cwur(df4):
 
 
 
+def transform_gmaps(df5):
+    df5 = df5.rename(columns={'keyword': 'University', 'rating':'Rating', 'reviews':'Total Reviews'})
+    return df5
+
+
+
 def sql_engine():
     return create_engine('postgresql://postgres:Planify123Junpro@20.24.68.238/rekdatuniv')
 

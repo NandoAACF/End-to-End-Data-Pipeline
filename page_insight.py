@@ -102,7 +102,7 @@ def show_insight():
 
     plt.xticks(rotation=45)
 
-    plt.title('Rank Bins vs TOEFL with Trend Line')
+    plt.title('Rank Bins vs TOEFL')
     plt.xlabel('Rank Bins')
     plt.ylabel('TOEFL')
     st.pyplot(plt)
@@ -122,7 +122,7 @@ def show_insight():
 
     plt.xticks(rotation=45)
 
-    plt.title('Rank Bins vs IELTS with Trend Line')
+    plt.title('Rank Bins vs IELTS')
     plt.xlabel('Rank Bins')
     plt.ylabel('IELTS')
     st.pyplot(plt)
@@ -423,6 +423,44 @@ def show_insight():
     st.write('Mahasiswa lulusan Oceania justru memiliki peringkat employability alumni yang paling rendah, sedangkan mahasiswa lulusan Amerika Utara memiliki peringkat employability alumni yang paling tinggi.')
 
 
+    # Question
+    st.markdown("### **Apakah universitas yang memiliki peringkat tinggi juga memiliki rating google maps yang lebih tinggi?**")
+    df['Rank Bins'] = pd.cut(df['Rank'], bins=range(1, df['Rank'].max() + 50, 50), right=False)
+
+    rank_bins_mean = df.groupby('Rank Bins')['Rating'].mean().reset_index()
+
+    plt.figure(figsize=(10, 6))
+    barplot = sns.barplot(data=df, x='Rank Bins', y='Rating', ci=None, palette='viridis')
+
+    plt.plot(rank_bins_mean['Rank Bins'].astype(str), rank_bins_mean['Rating'], color='red', marker='o')
+
+    plt.xticks(rotation=45)
+
+    plt.title('Rank Bins vs Rating with Trend Line')
+    plt.xlabel('Rank Bins')
+    plt.ylabel('Rating')
+    st.pyplot(plt)
+
+    st.write('Tidak. Rating universitas di Google Maps tidak berkorelasi dengan peringkat universitas. Hal tersebut masuk akal karena rating universitas di Google Maps bukan acuan untuk menentukan kualitas pendidikan di universitas tersebut. Rating universitas di Google Maps hanya berdasarkan pengalaman orang-orang yang pernah mengunjungi universitas tersebut.')
+
+
+    # Question
+    st.markdown("### **Bagaimana korelasi antara peringkat universitas dengan jumlah review di google maps?**")
+    plt.figure(figsize=(5, 5))
+    scatterplot = sns.scatterplot(x='Rank', y='Total Reviews', data=df)
+
+    plt.gca().invert_xaxis()
+
+    sns.regplot(x='Rank', y='Total Reviews', data=df, scatter=False, ax=scatterplot.axes, color='darkblue')
+
+    plt.title('Total Reviews Scores vs. Rankings of Top 500 Universities')
+    plt.xlabel('University Rank')
+    plt.ylabel('Total Reviews Score')
+    st.pyplot(plt)
+
+    st.write('Semakin tinggi peringkat universitas, maka jumlah review di Google Maps pun juga semakin banyak. Hal ini masuk akal karena universitas yang memiliki peringkat tinggi biasanya lebih terkenal dan banyak orang yang sudah mengunjungi universitas tersebut.')
+
+
     # Kesimpulan
     st.markdown("### **Kesimpulan**")
     st.write('- Sebagian besar universitas terbaik di dunia berada di Eropa')
@@ -438,3 +476,5 @@ def show_insight():
     st.write('- Mahasiswa asing terbanyak ada di Oceania dan yang paling sedikit ada di Africa')
     st.write('- Semakin tinggi peringkat universitas, maka lulusannya semakin mudah mencari pekerjaan')
     st.write('- Mahasiswa lulusan Amerika Utara memiliki peringkat employability terbaik.')
+    st.write('- Tidak ada korelasi antara rating universitas di Google Maps dengan peringkat universitas tersebut.')
+    st.write('- Semakin tinggi peringkat universitas, maka rata-rata jumlah review di Google Maps pun juga semakin banyak.')
