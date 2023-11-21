@@ -3,14 +3,17 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+from pipeline_utils import sql_engine
+
 @st.cache_data
-def load_data():
-    # Menampilkan data
-    df = pd.read_csv('final_all_data.csv')
+def get_data():
+    # Mengambil data dari database SQL
+    db_engine = sql_engine()
+    df = pd.read_sql_query('SELECT * FROM all_data', con = db_engine)
 
     return df
 
-df = load_data()
+df = get_data()
 
 def show_insight():
 
@@ -67,25 +70,25 @@ def show_insight():
     # Question
     st.markdown("### **Apakah ada korelasi antara skor TOEFL dan IELTS terhadap ranking universitas?**")
 
-    fig, axes = plt.subplots(1, 2, figsize=(12, 5))
+    # fig, axes = plt.subplots(1, 2, figsize=(12, 5))
 
-    sns.scatterplot(x='Rank', y='TOEFL', data=df, ax=axes[0])
-    axes[0].invert_xaxis()
-    sns.regplot(x='Rank', y='TOEFL', data=df, scatter=False, ax=axes[0], color='darkblue')
-    axes[0].set_title('TOEFL Scores vs. Rankings of Top 500 Universities')
-    axes[0].set_xlabel('University Rank')
-    axes[0].set_ylabel('TOEFL Score')
+    # sns.scatterplot(x='Rank', y='TOEFL', data=df, ax=axes[0])
+    # axes[0].invert_xaxis()
+    # sns.regplot(x='Rank', y='TOEFL', data=df, scatter=False, ax=axes[0], color='darkblue')
+    # axes[0].set_title('TOEFL Scores vs. Rankings of Top 500 Universities')
+    # axes[0].set_xlabel('University Rank')
+    # axes[0].set_ylabel('TOEFL Score')
 
-    sns.scatterplot(x='Rank', y='IELTS', data=df, ax=axes[1])
-    axes[1].invert_xaxis()
-    sns.regplot(x='Rank', y='IELTS', data=df, scatter=False, ax=axes[1], color='darkblue')
-    axes[1].set_title('IELTS Scores vs. Rankings of Top 500 Universities')
-    axes[1].set_xlabel('University Rank')
-    axes[1].set_ylabel('IELTS Score')
+    # sns.scatterplot(x='Rank', y='IELTS', data=df, ax=axes[1])
+    # axes[1].invert_xaxis()
+    # sns.regplot(x='Rank', y='IELTS', data=df, scatter=False, ax=axes[1], color='darkblue')
+    # axes[1].set_title('IELTS Scores vs. Rankings of Top 500 Universities')
+    # axes[1].set_xlabel('University Rank')
+    # axes[1].set_ylabel('IELTS Score')
 
-    plt.tight_layout()
+    # plt.tight_layout()
 
-    st.pyplot(plt)
+    # st.pyplot(plt)
 
 
     df['Rank Bins'] = pd.cut(df['Rank'], bins=range(1, df['Rank'].max() + 50, 50), right=False)
