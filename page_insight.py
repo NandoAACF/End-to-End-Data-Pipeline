@@ -10,8 +10,9 @@ from pipeline_utils import sql_engine
 def get_data():
     # Mengambil data dari database SQL
     db_engine = sql_engine()
+    conn = db_engine.connect()
     query = text('SELECT * FROM all_data')
-    df = pd.read_sql_query(query, con = db_engine)
+    df = pd.read_sql_query(query, con = conn)
 
     return df
 
