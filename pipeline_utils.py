@@ -277,3 +277,12 @@ def sql_engine():
 
 def load_to_sql(df, tableName, db_engine):
     return df.to_sql(name = tableName, con = db_engine, if_exists='replace', index=False)
+
+
+
+def unit_test(df):
+    assert df.shape[0] == 500, "Total number of rows should be 500"
+    assert isinstance(df, pd.DataFrame), "Output should be a dataframe"
+    assert df['Rank'].isnull().sum() == 0, "There should be no null values in the Rank column"
+    assert df['University'].isnull().sum() == 0, "There should be no null values in the University column"
+    assert (df.isnull().sum() / len(df) * 100).max() < 300, "There should be no columns with null values more than 60% of the total rows"
