@@ -36,7 +36,8 @@ def show_insight():
 
     st.pyplot(plt)
     
-    st.write('Tampak bahwa hampir separuh dari 500 universitas terbaik di dunia berada di Eropa. Amerika Utara dan Asia juga memiliki jumlah universitas terbaik yang tidak jauh berbeda. Sementara itu, Afrika hanya memiliki 7 universitas terbaik.')
+    st.write('Tampak bahwa hampir separuh dari 500 universitas terbaik di dunia berada di Eropa. Hal tersebut masuk akal karena negara-negara di Eropa memberikan anggaran yang besar untuk penelitian dan pengembangan sehingga kualitas pendidikan di sana pun juga sangat baik.')
+    st.write('Sementara itu, Afrika hanya memiliki 7 universitas terbaik. Hal ini masuk akal karena Afrika memiliki lebih banyak negara berkembang sehingga kualitas pendidikannya pun juga masih kalah dibanding region lainnya.')
 
 
     country_counts = df['Country'].value_counts()[:10]
@@ -51,7 +52,7 @@ def show_insight():
 
     st.pyplot(plt)
 
-    st.write('US merupakan negara yang memiliki paling banyak universitas terbaik, yaitu sebanyak 82 universitas dan jumlahnya berbeda sangat signifikan dibanding negara lainnya, diikuti oleh Inggris dan Jerman.')
+    st.write('US merupakan negara yang memiliki paling banyak universitas terbaik, yaitu sebanyak 82 universitas dan jumlahnya berbeda sangat signifikan dibanding negara lainnya, diikuti oleh Inggris dan Jerman. Hal tersebut karena universitas di US banyak menjalin kemitraan dengan perusahaan besar, seperti Google, Microsoft, dan sebagainya.')
 
 
     city_counts = df['City'].value_counts()[:10]
@@ -71,7 +72,7 @@ def show_insight():
 
 
     # Question
-    st.markdown("### **Apakah ada korelasi antara skor TOEFL dan IELTS terhadap ranking universitas?**")
+    st.markdown("### **Apakah mahasiswa dari universitas yang memiliki peringkat lebih tinggi juga memiliki skor TOEFL dan IELTS yang lebih tinggi pula?**")
 
     # fig, axes = plt.subplots(1, 2, figsize=(12, 5))
 
@@ -134,15 +135,15 @@ def show_insight():
     st.pyplot(plt)
 
 
-    st.write('Tampak bahwa semakin tinggi peringkat universitas, skor TOEFL dan IELTS mahasiswa yang diterima pun juga semakin tinggi, walaupun korelasinya tidak terlalu kuat. Hal ini masuk akal karena biasanya universitas yang bagus memiliki syarat lebih ketat daripada universitas lain.')
+    st.write('Benar. Tampak bahwa semakin tinggi peringkat universitas, maka rata-rata skor TOEFL dan IELTS mahasiswanya pun juga semakin tinggi. Hal ini masuk akal karena biasanya universitas yang bagus memiliki syarat lebih ketat daripada universitas lain.')
 
-    st.write('Rata-rata skor TOEFL mahasiswa top 50 universitas terbaik adalah 93 dan skor IETLS nya 6.6')
-    st.write('Setidaknya harus memiliki skor TOEFL di atas 80 dan skor IELTS di atas 6.0 supaya bisa diterima di top 300 universitas terbaik di dunia.')
+    # st.write('Rata-rata skor TOEFL mahasiswa top 50 universitas terbaik adalah 93 dan skor IETLS nya 6.6')
+    st.write('Setidaknya harus memiliki skor TOEFL di atas 80 dan skor IELTS di atas 6.0 supaya bisa menembus top 500 universitas terbaik di dunia.')
 
 
 
     # Question
-    st.markdown("### **Apakah ranking universitas berpengaruh terhadap jumlah mahasiswa asing?**")
+    st.markdown("### **Bagaimana distribusi mahasiswa asing berdasarkan peringkat universitasnya?**")
 
     df['Rank Bins'] = pd.cut(df['Rank'], bins=range(1, df['Rank'].max() + 50, 50), right=False)
 
@@ -174,10 +175,11 @@ def show_insight():
     st.pyplot(plt)
 
     st.write('Tampak bahwa distribusi jumlah mahasiswa di universitas top 500 memiliki skewness positif, yang berarti bahwa pusat distribusinya cenderung condong ke kiri. Sebagian besar universitas top 500 memiliki 10000 - 30000 mahasiswa. Sedangkan, mahasiswa terbanyak pada universitas top 500 hampir mencapai 80000 mahasiswa.')
+    st.write("Jika kita lihat, tidak ada yang spesial karena angka tersebut memang merupakan skala optimal jumlah mahasiswa di universitas, bukan hanya universitas top 500.")
 
 
     # Question
-    st.markdown("### **Bagaimana relasi antara jumlah mahasiswa dengan ranking dari universitas?**")
+    st.markdown("### **Apakah universitas yang peringkatnya lebih tinggi juga memiliki lebih banyak mahasiswa?**")
 
     df['Rank Bins'] = pd.cut(df['Rank'], bins=range(1, df['Rank'].max() + 50, 50), right=False)
 
@@ -195,11 +197,12 @@ def show_insight():
     plt.ylabel('Total Students')
     st.pyplot(plt)
 
-    st.write('Tampak trend bahwa semakin tinggi peringkat universitas, maka rata-rata jumlah mahasiswanya pun relatif semakin banyak.')
+    st.write('Tampak bahwa semakin tinggi peringkat universitas, maka rata-rata jumlah mahasiswanya pun relatif semakin banyak.')
+    st.write('Hal tersebut masuk akal karena universitas yang memiliki peringkat tinggi biasanya lebih terkenal sehingga semakin banyak mahasiswa yang tertarik untuk belajar di sana.')
 
 
     # Question
-    st.markdown("### **Bagaimana persebaran mahasiswa laki-laki dan perempuan pada universitas top 500 di dunia?**")
+    st.markdown("### **Bagaimana persentase mahasiswa laki-laki dan perempuan pada universitas top 500 di dunia?**")
 
     male_percentage = df['Male Ratio'].mean()
     female_percentage = df['Female Ratio'].mean()
@@ -213,10 +216,11 @@ def show_insight():
     st.pyplot(plt)
 
     st.write('Tampak bahwa persentase mahasiswa laki-laki dan perempuan di universitas top 500 di dunia tidak jauh berbeda, yaitu sekitar 51% laki-laki dan 49% perempuan.')
+    st.write('Bisa jadi pihak universitas menerapkan prinsip kesetaraan gender ketika menerima mahasiswa sehingga persentase laki-laki dan perempuan mirip.')
 
 
     # Question
-    st.markdown("### **Bagaimana persebaran mahasiswa laki-laki dan perempuan berdasarkan negara?**")
+    st.markdown("### **Bagaimana persentase mahasiswa laki-laki dan perempuan berdasarkan region?**")
 
     df_copy = df.copy()
     df_copy = df.loc[df['Male Ratio'].notnull()]
@@ -244,10 +248,11 @@ def show_insight():
     st.pyplot(plt)
 
     st.write('Tampak jelas bahwa mahasiswa universitas top 500 di Asia didominasi oleh perempuan, sedangkan di benua lain didominasi oleh laki-laki.')
+    st.write('Hal tersebut bisa disebabkan karena norma budaya di Asia yang lebih memberikan tekanan sosial bagi perempuan untuk mencapai pendidikan tertentu sebelum menikah.')
 
 
     # Question
-    st.markdown("### **Apakah universitas yang peringkatnya tinggi memiliki jumlah prodi lebih banyak?**")
+    st.markdown("### **Bagaimana distribusi jumlah program studi berdasarkan peringkat universitasnya?**")
 
     df['Rank Bins'] = pd.cut(df['Rank'], bins=range(1, df['Rank'].max() + 50, 50), right=False)
 
@@ -265,7 +270,8 @@ def show_insight():
     plt.ylabel('Subjects Count')
     st.pyplot(plt) 
 
-    st.write('Korelasi antara peringkat universitas dan jumlah program studi tidak terlalu jelas, namun universitas top 50 memiliki rata-rata jumlah program studi yang lebih tinggi dibanding peringkat di bawahnya.')
+    st.write('Distribusi rata-rata jumlah program studi berdasarkan peringkat universitasnya cukup merata. Namun, universitas top 50 memiliki rata-rata jumlah program studi yang lebih tinggi dibanding peringkat di bawahnya.')
+    st.write('Hal tersebut masuk akal karena universitas 50 teratas pasti akan memperluas program studinya agar semakin menarik minat mahasiswa.')
 
 
     # Question
@@ -298,7 +304,8 @@ def show_insight():
     plt.ylabel('Region')
     st.pyplot(plt) 
 
-    st.write('Universitas di North America memiliki rata-rata skor akreditasi tertinggi, sedangkan rata-rata skor akreditasi universitas di Africa paling rendah. Hal ini masuk akal karena pendidikan di Afrika belum sebaik di benua lainnya.')
+    st.write('Universitas di North America memiliki rata-rata skor akreditasi tertinggi, sedangkan rata-rata skor akreditasi universitas di Africa paling rendah.')
+    st.write('Hal ini masuk akal karena pendidikan di Afrika belum sebaik di benua lainnya.')
 
 
     # Question
@@ -323,10 +330,11 @@ def show_insight():
 
     st.write('Terdapat 5 universitas di Indonesia yang masuk ke daftar top 500, yaitu Universitas Indonesia, Universitas Gadjah Mada, Institut Teknologi Bandung, Universitas Airlangga, dan Institut Pertanian Bogor.')
     st.write('Peringkat tertinggi dipegang oleh Universitas Indonesia, yaitu peringkat 237.')
+    st.write('Sayangnya belum ada universitas di Indonesia yang mampu menembus top 100 universitas terbaik di dunia.')
 
 
     # Question
-    st.markdown("### **Benua dan negara apa yang mahasiswanya memiliki skor TOEFL dan IELTS tertinggi?**")
+    st.markdown("### **Region apa yang mahasiswanya memiliki skor TOEFL dan IELTS tertinggi?**")
     df_copy = df.copy()
     df_copy = df.loc[df['TOEFL'].notnull()]
     mean_TOEFL_by_region = df_copy.groupby('Region')['TOEFL'].mean().sort_values(ascending=False).reset_index()
@@ -356,6 +364,7 @@ def show_insight():
     st.pyplot(plt) 
 
     st.write('Mahasiswa di North America memiliki rata-rata skor TOEFL dan IELTS tertinggi, sedangkan mahasiswa di Africa memiliki rata-rata skor TOEFL dan IELTS terendah. Tampak perbedaan yang cukup signifikan antara skor TOEFL di North America dan Africa. Skor TOEFL di North America hampir 2 kali lipat lebih tinggi daripada skor di Africa')
+    st.write('Tingginya skor TOEFL dan IELTS di North America sangat wajar karena North America menggunakan bahasa Inggris sebagai bahasa sehari-hari mereka.')
     st.write('FYI: Skor rata-rata TOEFL iBT adalah 84 dan skor rata-rata IELTS adalah 6.0. Artinya mahasiswa di Afrika memiliki skor TOEFL yang masih cukup jauh di bawah rata-rata dunia.')
 
 
@@ -427,6 +436,7 @@ def show_insight():
     st.pyplot(plt)
 
     st.write('Mahasiswa lulusan Oceania justru memiliki peringkat employability alumni yang paling rendah, sedangkan mahasiswa lulusan Amerika Utara memiliki peringkat employability alumni yang paling tinggi.')
+    st.write('Hal ini masuk akal karena Amerika Utara memiliki banyak perusahaan besar yang berbasis di sana sehingga mahasiswa lulusan Amerika Utara memiliki kemudahan dalam mencari kerja.')
 
 
     # Question
@@ -447,7 +457,7 @@ def show_insight():
     plt.ylabel('Rating')
     st.pyplot(plt)
 
-    st.write('Tidak. Rating universitas di Google Maps tidak berkorelasi dengan peringkat universitas. Hal tersebut masuk akal karena rating universitas di Google Maps bukan acuan untuk menentukan kualitas pendidikan di universitas tersebut. Rating universitas di Google Maps hanya berdasarkan pengalaman orang-orang yang pernah mengunjungi universitas tersebut.')
+    st.write('Tidak. Distribusi rating universitas di Google Maps sangat merata. Hal tersebut masuk akal karena rating universitas di Google Maps bukan acuan untuk menentukan kualitas pendidikan di universitas tersebut. Rating universitas di Google Maps hanya berdasarkan pengalaman orang-orang yang pernah mengunjungi universitas tersebut.')
 
 
     # Question
@@ -464,7 +474,8 @@ def show_insight():
     plt.ylabel('Total Reviews Score')
     st.pyplot(plt)
 
-    st.write('Semakin tinggi peringkat universitas, maka jumlah review di Google Maps pun juga semakin banyak. Hal ini masuk akal karena universitas yang memiliki peringkat tinggi biasanya lebih terkenal dan banyak orang yang sudah mengunjungi universitas tersebut.')
+    st.write('Semakin bagus peringkat universitas, maka jumlah review di Google Maps pun juga semakin banyak.')
+    st.write('Hal ini masuk akal karena universitas yang memiliki peringkat lebih bagus biasanya lebih terkenal dan banyak orang yang sudah mengunjungi universitas tersebut.')
 
 
     # Kesimpulan
@@ -475,12 +486,12 @@ def show_insight():
     st.write('- Semakin tinggi peringkat universitas, maka jumlah mahasiswa asingnya juga semakin banyak.')
     st.write('- Sebagian besar universitas terbaik memiliki 10000 - 30000 mahasiswa')
     st.write('- Universitas terbaik di Asia didominasi oleh perempuan, sedangkan di benua lain didominasi oleh laki-laki.')
-    st.write('- Top 100 universitas memiliki skor akreditasi di atas 60')
+    st.write('- Top 100 universitas memiliki skor akreditasi di atas 60, sedangkan top 500 universitas memiliki skor akreditasi di atas 23.')
     st.write('- Amerika Utara memiliki rata-rata skor akreditas tertinggi, sedangkan Afrika yang terendah')
     st.write('- Universitas di Indonesia yang masuk daftar top 500 adalah Universitas Indonesia, Universitas Gadjah Mada, Institut Teknologi Bandung, Universitas Airlangga, dan Institut Pertanian Bogor.')
     st.write('- Skor TOEFL mahasiswa di Amerika Utara hampir 2 kali lipat lebih tinggi daripada Afrika.')
     st.write('- Mahasiswa asing terbanyak ada di Oceania dan yang paling sedikit ada di Africa')
     st.write('- Semakin tinggi peringkat universitas, maka lulusannya semakin mudah mencari pekerjaan')
-    st.write('- Mahasiswa lulusan Amerika Utara memiliki peringkat employability terbaik.')
-    st.write('- Tidak ada korelasi antara rating universitas di Google Maps dengan peringkat universitas tersebut.')
+    st.write('- Mahasiswa lulusan Amerika Utara memiliki peringkat alumni employability terbaik.')
+    st.write('- Terdapat distribusi yang merata antara rating universitas di Google Maps dengan peringkat universitas tersebut.')
     st.write('- Semakin tinggi peringkat universitas, maka rata-rata jumlah review di Google Maps pun juga semakin banyak.')
