@@ -1,6 +1,6 @@
 import pandas as pd
 
-file_path = 'src/final_all_data.csv'
+file_path = 'src/temp_merged_df_1_2_3_4.csv'
 
 # Mengambil nama universitas dari hasil scraping web QS dan THE
 df = pd.read_csv(file_path)
