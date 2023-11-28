@@ -1,9 +1,9 @@
 import pandas as pd
-
-file_path = 'src/temp_merged_df_1_2_3_4.csv'
+from ...pipeline_utils import sql_engine
 
 # Mengambil nama universitas dari hasil scraping web QS dan THE
-df = pd.read_csv(file_path)
+db_engine = sql_engine()
+df = pd.read_sql_query('SELECT * FROM temp_merged_df_1_2_3_4', con = db_engine)
 KEYWORDS = df['University'].tolist() 
 
 # Melakukan query rating google maps dari setiap nama universitas

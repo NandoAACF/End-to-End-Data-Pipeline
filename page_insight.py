@@ -6,7 +6,8 @@ from sqlalchemy import text
 
 from pipeline_utils import sql_engine
 
-@st.cache_data
+# Cache kadaluwarsa dalam 24 jam
+@st.cache_data(ttl=60 * 60 * 24)
 def get_data():
     # Mengambil data dari database SQL
     db_engine = sql_engine()
