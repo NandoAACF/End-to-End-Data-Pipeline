@@ -480,9 +480,9 @@ def show_insight():
 
 
     # Kesimpulan
-    st.markdown("### **Kesimpulan**")
+    st.markdown("### **Summary**")
     st.write('- Sebagian besar universitas terbaik di dunia berada di Eropa')
-    st.write('- Semakin tinggi peringkat universitas, maka skor TOEFL dan IETLS mahasiswa yang diterima pun juga semakin tinggi.')
+    st.write('- Semakin tinggi peringkat universitas, maka skor TOEFL dan IETLS mahasiswanya pun juga semakin tinggi.')
     st.write('- Rata-rata skor TOEFL mahasiswa top 300 universitas terbaik adalah di atas 80 dan skor IETLS nya di atas 6.0')
     st.write('- Semakin tinggi peringkat universitas, maka jumlah mahasiswa asingnya juga semakin banyak.')
     st.write('- Sebagian besar universitas terbaik memiliki 10000 - 30000 mahasiswa')
